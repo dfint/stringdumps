@@ -7430,9 +7430,6 @@
 0000D165|data/save/current/*.sav|
 0000D16B|world.dat|
 0000D16E|world.sav|
-0000D1A0|08k|
-0000D2EA|p5q|
-0000D429|p[u|
 0000D5D7|glCopyTexSubImage3D|
 0000D5DC|glDrawRangeElements|
 0000D5E1|glTexImage3D|
@@ -15161,7 +15158,6 @@
 0001ADF8|VERB_REVERSE|
 0001ADFC|TARGET_VERB|
 0001ADFF|BP_REQUIRED|
-0001AEA5|p[u|
 0001B054|: Could not locate material template |
 0001B05E|WAFERS|
 0001B060|SPECIAL|
