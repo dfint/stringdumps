@@ -18370,7 +18370,6 @@
 0001FECF|Gate|
 0001FED1| has been elected |
 0001FED6| has been re-elected.|
-0001FF09|p~A|
 0001FF55|No Buildings Nearby|
 0001FF5A|Forbidden|
 0001FF5D|This building has|
