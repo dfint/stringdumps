@@ -126,6 +126,9 @@
 |filthy|
 |reeking|
 |foul|
+|The geldables have been torn away!|
+|It is a gelding strike!|
+|It is a gelding blow!|
 |a major artery|
 |an artery|
 | has been opened by the attack|
@@ -20922,6 +20925,7 @@
 |: Remove from burrow|
 |: Add to burrow|
 |: Change selection|
+|RES|
 |: Done naming|
 |: Name burrow|
 |: Select symbol/color|
@@ -21092,6 +21096,7 @@
 |: Citizens trigger|
 |: Citizens do not trigger|
 |: Min |
+|K|
 |: Max |
 |: Creatures do not trigger|
 |Friction: |
