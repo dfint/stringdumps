@@ -23093,6 +23093,7 @@
 |[B]where |
 |! marks the primary accent, |
 |X marks an accented beat, |
+|` marks a beat as early, |
 |' marks a beat as late, |
 |x is a beat|
 |, - is silent|
