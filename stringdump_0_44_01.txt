@@ -6931,7 +6931,6 @@ guttural-voiced
 grating-voiced
 squeaky-voiced
 scratchy-voiced
-вI
 CON_CAT
 CON
 GRASP
