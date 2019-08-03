@@ -30693,7 +30693,6 @@ frilly
 skirt
 s]
 [HARD]
-CPN
 [METAL]
 [BARRED]
 [MATERIAL_SIZE:2]
@@ -30708,8 +30707,6 @@ bell-shaped
 rounded
 [ITEM_PANTS:
 greaves:greaves
-EI
-APN
 [CE:COUNTER_TRIGGER:DRINKING_BLOOD:1:NONE:REQUIRED]
 [CE_SENSE_CREATURE_CLASS:START:0:CLASS:GENERAL_POISON:15:4:0:1:ABRUPT]
 [LAYER_PERMIT:30]
@@ -30764,7 +30761,6 @@ AGL
 [NAME:high boot:high boots]
 [NAME:mitten:mittens]
 [COVERAGE:150]
-CGL
 [NAME:glove:gloves]
 [UPSTEP:1]
 intricate
@@ -30772,13 +30768,11 @@ intricate
 [LAYER_PERMIT:20]
 [NAME:helm:helms]
 [ARMORLEVEL:1]
-AHM
 [ITEM_HELM:
 bulky
 asymmetrical
 [NAME:turban:turbans]
 [NAME:mask:masks]
-CHM
 [NAME:hood:hoods]
 [LAYER_PERMIT:15]
 [MATERIAL_SIZE:1]
@@ -30804,7 +30798,6 @@ whip:whips
 [NAME:sock:socks]
 [NAME:sandal:sandals]
 [NAME:chausse:chausses]
-CSH
 [NAME:shoe:shoes]
 [LAYER_SIZE:25]
 [NAME:low boot:low boots]
@@ -30814,7 +30807,6 @@ CSH
 [SKILL:SWORD]
 blade
 sword
-WP
 [ITEM_WEAPON:
 [SIZE:150]
 [ATTACK:EDGE:5:1000:stab:stabs:NO_SUB:1000]
@@ -30907,7 +30899,6 @@ large-headed
 [ITEM_SHIELD:
 rectangular
 [CLASS:BOLT]
-SH
 [RANGED:CROSSBOW:BOLT]
 [NAME:bolt:bolts]
 [ATTACK:EDGE:20:10000:stab:stabs:NO_SUB:1000]
