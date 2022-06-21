@@ -878,7 +878,6 @@ bruised
  to close window
  is sucked out of the wound!
 Press 
-plF
 item
  has brought back many tales from beyond 
  has returned.
@@ -2714,7 +2713,6 @@ The impertinent magma has defaced a
 The impertinent lava has defaced a 
 Digging designation cancelled: damp stone located.
 Digging designation cancelled: warm stone located.
-`TS
 Bookcase
 Offering Place
 Hive
@@ -3075,7 +3073,6 @@ BLOCK
 TILE
 COLOR
 MAT
-puW
  from an unknown year
  from the year 
  under an obscure ruler
