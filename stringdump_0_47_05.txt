@@ -2714,7 +2714,6 @@ The impertinent magma has defaced a
 The impertinent lava has defaced a 
 Digging designation cancelled: damp stone located.
 Digging designation cancelled: warm stone located.
-`TS
 Bookcase
 Offering Place
 Hive
@@ -37981,4 +37980,3 @@ incompatible version
 buffer error
 insufficient memory
 need dictionary
-����pt
