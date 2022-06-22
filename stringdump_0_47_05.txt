@@ -3074,7 +3074,6 @@ BLOCK
 TILE
 COLOR
 MAT
-puW
  from an unknown year
  from the year 
  under an obscure ruler
@@ -12183,7 +12182,6 @@ All work orders must be validated by the manager before they become active.
 : Remove  
 : Wages
 : Max priority  
-@rm
 [INITIAL_LOAD]
 PATTERN
 Unrecognized Colored Pattern Token: 
@@ -13918,7 +13916,6 @@ EMERGENCY: Unknown case in async_wait
 TEXT not supported on windows
 deque<T> too long
 list<T> too long
-po|
 [SYM:*:*]
 [KEY:*]
 [BUTTON:*:*]
@@ -29804,7 +29801,6 @@ You honor
 Villains!  The seizure of 
 Thank you for returning my treasure.
  is a great treasure.  We respect that this is no mere trade.
-pu�
 current events
 the past
 to describe
@@ -36286,7 +36282,6 @@ monument
 NULL artifact removed on load
 Site Center Flood Overflow
 Non-feature related elevation hole
-ph�
 whispers when 
 's nervous
 starts to whisper when 
