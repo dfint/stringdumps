@@ -37558,7 +37558,3 @@ incorrect header check
 stream error
 buffer error
 insufficient memory
-L_Quit
-std_terminate
-acrt_iob_func
-eateEventW
