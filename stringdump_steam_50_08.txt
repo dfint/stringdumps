@@ -8,7 +8,6 @@ Fatal Error
 WinMain() error
 DDRAW.DLL
 SDL_STDIO_REDIRECT
-S
 Unknown exception
 bad array new length
 string too long
@@ -38276,11 +38275,3 @@ invalid window size
 stream error
 insufficient memory
 buffer error
-d
-p
-R
-V
-t
-b
-B
-v
