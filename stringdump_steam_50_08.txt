@@ -281,7 +281,6 @@ to
 Your
 's
  lay
-s
  forth an awe-inspiring sermon for the ages!
  artfully deliver
  a lucid and powerful sermon.
@@ -336,7 +335,6 @@ don't
  weave
  a mesmerizing tale!
  tell
-lm
  the story in vivid detail.
  telling the tale quite well.
  stumble
@@ -756,7 +754,6 @@ Thoughts
 Personality
  Year
  Old
-x
 Spouse: 
  lovers
 Lover: 
