@@ -5,7 +5,16 @@ crash_{timestamp}.txt
 Unknown exception
 bad array new length
 string too long
+0O
+ÉT
+áW
+0Y
+`O
+╨U
+≡U
 </historical_figures>
+└R
+`U
 TRANS_NAME
 nameless
 FIRST_NAME
@@ -47,13 +56,24 @@ itself
 <subtype>standard</subtype>
 invalid string position
 vector too long
+0O
 Activity
 Training Session
+`O
 Activity Event
+╨U
+≡U
+└R
+áW
+0Y
 Research
 Play
 Worship
+ÉT
 Socialize
+`U
+╨R
+0O
  empty 
  empties 
  pick up 
@@ -65,6 +85,7 @@ I am a prisoner of
  has shared a rumor from abroad.
  gives you 
  has discovered 
+`O
 [TEMP_DIET_INFO:SLIME]
  has become a student of 
 WORLD_EDGE_GLACIER_EVIL_THIN_CORNER_SE
@@ -152,9 +173,11 @@ Watch Sparring Practice
 Archery Practice
 DOUBLE TAGGED ITEM: By Activity, 
 You cannot perform here.
+ Q
 You could not find a partner.
 There are not enough dancers.
 There is not enough room to perform here.
+`O
 You
 Some children
 is
@@ -173,6 +196,7 @@ the musical composition
 improvised music, 
 dancing 
 an improvised dance, 
+n:.
  in the middle of 
 You continue the sermon.
 The sermon continues.
@@ -219,17 +243,21 @@ You continue the dance.
 The dance continues.
 You continue the music.
 The music continues.
+z≡╥
+ÆB≡╥
 You conclude your performance.
 The performers are finished.
 Some performers finish their act.
  has finished performing.
  concludes a performance.
 You've learned 
+¼B≡╥
 You feel like you know the basic rules of 
  now.
 Your
 's
  lay
+s
  forth an awe-inspiring sermon for the ages!
  artfully deliver
  a lucid and powerful sermon.
@@ -261,6 +289,7 @@ sing
 chanting
 singing
  make
+'hO
  a mockery of the 
  with a shameworthy performance.
 doesn't
@@ -482,6 +511,7 @@ Creature
 Tame/mountable
 Change the frequency that the conditions are checked.
 Not
+ Q
  year
 Set the weather, temperature, and time.
 No cumulus clouds
@@ -520,10 +550,26 @@ Night
 Late night
 Early morning
 item
+0O
+0O
+0O
+`O
+╨U
+PR
 Do not automate kiln
+áW
 after leading an unexciting life
 WORLD_EDGE_SAND_DESERT_GOOD_THIN_CORNER_TRANSITION_NW_N
+╨U
+0O
+≡U
+0O
+`O
+╨U
+≡U
+ Q
 Brawler
+0O
 No specific orders
  have returned.
 amazingly agile
@@ -545,6 +591,7 @@ Summer
 Spring
 Prepare easy meal
 Click [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Carpenter[C:7:0:0] and place the shop in an empty area on the surface or underground.
+p≤¢
 The dead walk.  Hide while you still can!
 Forms twisted from their nature, legion of the night.  What hope remains?
 A vile force of darkness has arrived, seeking a parley!
@@ -554,14 +601,17 @@ A vile force of darkness has arrived!
 The enemy have come and are laying siege to the fortress.
 An army is invading!
 STRING_A193
+0O
 You fail to mount 
 KILL_ANIMAL
 COUNTER_TRIGGER
+`O
 army is located out of bounds: teleporting
 FORCED_ADMINISTRATOR
 overlord
 overlords
 the escape from 
+PA
  of 
  has been founded 
 , has been conquered and
@@ -640,6 +690,7 @@ looks
 suffering
 withering away
 striking a menacing pose
+≡U
 striking a triumphant pose
 laboring
 traveling
@@ -663,6 +714,12 @@ female
 male 
 the deity of 
 BOWED
+╨U
+`O
+`O
+╨U
+≡U
+0Y
 Click a building to link to 
 [PCG_LAYERING:BEAST_SMALL_FRONT_GRASP_WINGS_BAT_BACK]
 [PCG_LAYERING:BEAST_SMALL_SCORPION_MANDIBLES]
@@ -751,6 +808,7 @@ Thoughts
 Personality
  Year
  Old
+x
 ANIMAL_CLASS
 Spouse: 
  lovers
@@ -977,6 +1035,7 @@ Sluggish
 Stunned
 Dizzy
 Exhausted
+ Q
 Over-exerted
 Tired
 Drowning
@@ -1093,6 +1152,7 @@ Will do available tasks anywhere
 Cannot assign work details
 No work details
 No dedicated workshop assignments
+ Q
 after receiving a cut of corruptly-obtained funds
 No location assignments
 Tavern keeper
@@ -1396,6 +1456,7 @@ Pumps from the north
 Pumps from the east
 Pumps from the south
 Pumps from the west
+░Zd
 This is a memorial to
 On display
 Assigned
@@ -1416,15 +1477,18 @@ Not ready to be split
 Too many hives
 * No output
 * Output restricted
+ }g
 Occupant
 Unassigned occupant
 Terrarium
 Aquarium
+CNp
 You must designate a dungeon
 before this restraint will
 be used for imprisonment.
 This furniture is a part of multiple rooms.
 This furniture is a part of
+ Q
 Unnamed water source
 WORLD_EDGE_SAND_DESERT_GOOD_THINNING_S_W
 Unnamed dump
@@ -1461,10 +1525,13 @@ Passable
 DOOR TAKEN BY INVADERS
 Retake door to forbid it.
 DOOR USED BY INTRUDER
+ Q
 Open
 HATCH TAKEN BY INVADERS
+`O
 Retake hatch to forbid it.
 HATCH USED BY INTRUDER
+ Q
 You must designate a tomb
 before this coffin will
 be used for burial.
@@ -1716,7 +1783,9 @@ Making armor
 Making weapons
 Making anvils
 'te
+4óV
 an
+a
 This is an untitled
 manual
 guide
@@ -1749,6 +1818,9 @@ It is an example of
 [B]
 silk 
 Squad Order
+`O
+≡U
+r
 </hf_rep_1_of_2>
  days' travel
 More than a day's travel
@@ -2657,6 +2729,7 @@ The symbol of
 Image information for 
 Image information for engraving
 Image information
+Eô1
 Warning!
 You won't perform your action if you leave.
 Don't perform action
@@ -2688,6 +2761,7 @@ Number:
 Untitled/unnamed
 Choose X: 
 Choose Y: 
+ Q
 This is a 
 These are 
 outcast 
@@ -2729,10 +2803,17 @@ horn
 pearl
 gem
 material
+0O
+F»j
+ Q
  straps 
  draws 
  drinks 
  drops 
+Pp
+`O
+ Q
+ Q
 Custom settings
 Range: 
 Enemies:
@@ -2744,6 +2825,7 @@ Economy:
 Text entry
 Fortress
 Macros
+2≡S₧
 Add
 Fast repeat
 Delayed repeat
@@ -2784,7 +2866,11 @@ Fort
 Report
 Alert
 Report (Active)
+o
+s
+x
 Adventure
+f
 Other
 Difficulty
 Scale interface to fit grid height/width
@@ -3043,12 +3129,18 @@ CENTRALIZE
 [MAXIMUM_EMBARK_DIM:
 prefs/announcements.txt
 BOX:
+P:
+R:
 A_D:
 D_D:
+UCR:
+UCR_A:
 ALERT:
 prefs
 a hero
 deque<T> too long
+0O
+ Q
 Fail to schedule the chore!
 generic
 This function cannot be called on a default constructed task
@@ -3197,8 +3289,47 @@ The topic being written about is
 This organizational activity will branch into specific social events.
 This organizational activity will branch into specific worship events.
 This organizational activity will branch into specific play events.
+ Q
+ Q
+`O
+`O
+`O
+ Q
+0O
+ Q
+ Q
+0O
+0O
+ Q
+ Q
+ Q
+ Q
+└R
+`O
+ Q
+`O
+ Q
+0O
+ Q
+ Q
+0O
+0O
+ Q
+ Q
+0O
+0O
 SPATTER_LIQUID
+0Y
+áW
+╨R
+p∩
 [LAIR:SIMPLE_BURROW:50]
+0O
+0O
+0O
+0O
+0O
+0O
 DENSE
 WILLPOWER
 ROUND_VS_NARROW
@@ -3223,12 +3354,38 @@ lady consort
 ladies consort
 hearthperson
 hearthpeople
+0O
+0O
 Rainbows
 the Holy City
 RENDER_MAT
+0O
+ Q
+ Q
+╨U
+`O
+`O
+ Q
+`O
+`O
+`O
+ Q
+ Q
+ Q
+ Q
+ Q
+ Q
+ Q
+ Q
+ Q
+ Q
+ Q
+ Q
+ Q
 CUSTOM_OUTCAST_LT
 error: intrigue actors identical
 error: intrigue actors identical (2)
+uS≡╥
  lured 
  to a meeting with 
 , where the latter
@@ -3446,6 +3603,7 @@ the plot of
  to infiltrate 
  (not in squad)
  to frame 
+`O
  to induce a war of 
  to sabotage the activities of 
  to abduct 
@@ -3468,6 +3626,7 @@ the agreement by
  to establish 
 error: intrigue actors identical (3)
  has revealed the presence of 
+A▄
 Ramp mining
 Nameless
 Unidentified
@@ -3498,6 +3657,7 @@ Asset
 ENGRAVED_STONE_WALL_E
 ENGRAVED_STONE_WALL_NW
 Does this settlement engage in trade?  Tell me about those places.
+:PA
 Interrogation Report: 
 Dead/Missing
 Bones
@@ -3586,6 +3746,14 @@ New weapon
 New legwear
 New footwear
 New handwear
+`O
+`O
+`O
+ Q
+0O
+0O
+0O
+p
  hammerstrike
 Beating.
 none assigned
@@ -3634,20 +3802,33 @@ more frenetic
 less dutiful
 more trusting
 LEAVES
+`O
+ Q
 Select animals to be dropped into the pit or pond below this zone.  Animals will not feel obligated to stay if they can find a way out.
 sanctify hf
 Archery range
+`O
+`O
+`O
+ Q
+0O
+ Q
+ Q
+0O
  around by the 
  shakes
  shake
  in vain against the grip of 
+ Q
 understated
  raised arm
+ Q
 Incision
 I need to get away from here and wander the world.
 graphics/
 Not found: 
 Palette not found
+0O
 FIRED_MAT
 FLUX
 occupation
@@ -3669,16 +3850,24 @@ Unrecognized Sphere Token:
 CREATION
 YOUTH
 RULE_THE_WORLD
+ Q
 MAINTAIN_ENTITY_STATUS
 START_A_FAMILY
+╨U
 low-voiced
+0O
 FAIL_TO_GRAB_SURFACE
+0O
 Loading army controllers...
+ Q
+ Q
  body of the instrument vibrates with the string
 BODY:
 The instrument has flue pipes and reed pipes.  
 All of the pipes are free reed.  
+ Q
 Route 
+ Q
 is forceful
 Button
 Sorting buildings...
@@ -3693,8 +3882,10 @@ sacred
 priest
 priests
 ".  [C:2:0:1]Strike the earth![C:7:0:0]
+Çvá
 Your name precedes you.  Thank you for all that you have done.  
  slipping out of 
+ Q
 Ghostly 
  Corpse
 MODSKILL01
@@ -3703,26 +3894,41 @@ SIDEBURNS
 MOUSTACHE
 BEARD
  log
+0O
 hung from a 
 Unnamed underground area
+ Q
 LPAGE
 screw 
 yarn 
 <site_hfid>
 </coconspirator_hfid>
 Command Line: World generation initiated.
+4£V
 </form_id>
 to fill a role as a performer
+ Q
+`O
 Cavern Layer Passage Density Min
 the end of the master-apprentice of
 unfavorable 
 composed of charcoal
+R
 Cannot find path
 </target_enid>
 <attacking_enid>
 Multizone Flood Overflow
+ Q
 LGREEN_B
 HAS_ANY_NIGHT_CREATURE_HUNTER
+ Q
+0O
+╨U
+ Q
+ Q
+ Q
+0O
+`O
 unprepared 
 Plant growth (?)
 large pots/food storage
@@ -3771,6 +3977,8 @@ HOTKEY_BUILDING_CONSTRUCTION_TRACK_STOP
 HOTKEY_BUILDING_WORKSHOP_TANNER
 HOTKEY_BUILDING_WORKSHOP_LOOM
 HOTKEY_BUILDING_WORKSHOP_QUERN
+ Q
+ Q
 You honor 
  with the presentation of 
 Villains!  The seizure of 
@@ -3789,6 +3997,9 @@ Trainer
 Select a trainer for 
 Any trainer
 Any unassigned trainer
+ Q
+ Q
+ Q
 Citizens
 Pets/Livestock
 Overall Training
@@ -3973,6 +4184,8 @@ unwilling to trade
 The following fortress goods
 were added for the counteroffer:
 Contains 
+╘Ls
+ Q
 Trader Loss: 
 Allowed Weight: 
 Excess Weight: 
@@ -4038,12 +4251,16 @@ work orders.
 All work orders must be validated
 by the manager before they become
 active.
+ Q
 Creatures
 Places
 Objects
 does not have a great aesthetic sensitivity
+0O
+ Q
 improving 
 viewing 
+0O
 drinking something spoiled
 WORLD_EDGE_WATER_EVIL_THIN_CORNER_NE
 interacting with a pet
@@ -4104,6 +4321,7 @@ You can do this from the Nobles and Administrators menu.
 There aren't any crafted artifacts here.
 Your workers will rarely make them on their own.
 You may also send a squad to obtain one.
+ Q
 Sacred to 
 Treasure of 
 Heirloom of 
@@ -4175,6 +4393,7 @@ Splints (Desired):
 Crutches (Desired): 
 Powder for casts (Desired): 
 Buckets (Desired): 
+ Q
 Soap (Desired): 
 Grand Guildhall, 
 Guildhall, 
@@ -4233,6 +4452,7 @@ New library
 New temple
 New inn/tavern
 New hospital
+ Q
 Furniture
 Doors/hatches
 Constructions
@@ -4421,6 +4641,7 @@ Designating low traffic area
 Removing traffic designations
 Designating high traffic area
 Removing mining/chopping/gathering/smoothing orders
+`O
 SOIL_RAMP_WITH_WALL_N_SW
 Horizontal axles can vary in length.
 Set the orientation below.
@@ -4440,6 +4661,7 @@ We shall bring
 Water does not trigger
 WEREBEAST_COATI
 fantail
+`O
 Magma does not trigger
 Cart
 Weight
@@ -5054,6 +5276,8 @@ broken vegetation
 STRING_A168
 You can recenter on certain announcements.  Right click to close.
 Select a report to view the full text.  Right click to close.
+A
+ Q
 Elevate whom?
 No recommendations available
 No positions available
@@ -5218,6 +5442,10 @@ Only selected do this
 Nobody does this
 Details
 Reset to default
+C
+E
+R
+M
 Add new work detail
 Custom Detail 
 Custom Detail
@@ -5323,10 +5551,12 @@ Forbid toppled building items
 Forbid toppled building items during sieges
 Claim toppled building items
 Forbidding of death objects occurs at time of death.
+'tW
 Children do chores
 Children don't do chores
 There are no children
 to do your chores.
+ Q
 Fish only in designated zones
 Prefer zones for fishing
 Drink water only from designed zones
@@ -5339,12 +5569,16 @@ Announce all job cancellations
 Announce most job cancellations
 Announce some job cancellations
 Announce no job cancellations
+P
+r≡╥
 Economic stone
 Stone type
 Magma-safe
 Economic uses
 Select to use in non-economic jobs.
 You know of no appropriate stones.
+B
+'tH
 <entity_former_squad_link>
 Choose a symbol for the squad.
 Choose a symbol for the detail.
@@ -5369,6 +5603,7 @@ Vacant position
 Back to squads
 Assign leader
 Assign position 
+ Q
 Cannot appoint
 until commander
 is selected
@@ -5393,17 +5628,26 @@ Choose a uniform for the
 seleced positions.
 seleced squads.
 squad.
+I/B
 No uniform
 Off duty
 Staggered training
 Constant training
+ÉYE
 Create which squad?
+ÆâE
+¢ÆE
+ÅJ
 Really delete this routine?
+0O
 Current month
+u¼≡╥
+`O
 Add/edit routines (columns)
 View monthly schedule
 multicolored cloth
 Monthly orders
+ Q
  guild, has been established.
 specific armor
 specific helm
@@ -5437,6 +5681,7 @@ Partial matches okay
  individual choice
  indiv choice, melee
  indiv choice, ranged
+B{\
  assigned items
 Not yet assigned
 No assigned items
@@ -5446,10 +5691,13 @@ Assign uniform
 Add uniform
 Update equipment
 Custom uniform
+L
 Work Details
 Standing orders
 Stone use
 an2
+gm[
+PèÇ
 Ahhh...
 Violation of production order
 Violation of export prohibition
@@ -5479,6 +5727,7 @@ Convicts
 Convict list
  day
  in prison.
+ Q
 Convict
 Witness: 
 Accuses: 
@@ -5495,10 +5744,12 @@ Organizations
 Actors
 Interrogations
 Org: 
+áE0≡╥
 Selected actor: 
 One member
  members
 Prepared by 
+PA
 No interrogation reports.
 [C:7:0:1]Received 
 [C:7:0:1:]Received 
@@ -5543,6 +5794,7 @@ Rotten tissue excised from
 [C:4:0:1].Heavy bleeding
 [C:4:0:1].Bleeding
 [C:7:0:1].Motor nerve severed
+`O
 [C:7:0:1].Sensory nerve severed
 [C:6:0:1].Torn tendon
 [C:6:0:1].Strained tendon
@@ -5909,6 +6161,17 @@ appear
 feeling aversion
 EQUIPMENT_WAGON
 I enjoyed that.
+¬u╪
+╝u╪
+╝u╪
+∞w╪
+Pw╪
+'4T
+Pw╪
+4,J
+'dû
+l╓╪
+N>¡
 in
 er
 us
@@ -6021,6 +6284,7 @@ Please guide me to
 Please guide me to myself.
 Please guide me to you.
 We can no longer travel together.
+j
   I'm giving up on this hopeless venture.
   We were going to entertain the world!  It's a shame, but I'll have to make my own way now.
   I'm returning on my own.
@@ -6769,6 +7033,9 @@ That was compelling!
  appears to acquiesce.
 It is not convincing.
  appears unconvinced.
+0O
+0O
+ Q
 called the 
  is one of the fundamental dance moves.  
  the fundamental dance move.  
@@ -6788,6 +7055,7 @@ There
  grotesque
  crude
  refined
+n
  understated
  delicate
  elaborate
@@ -7034,6 +7302,7 @@ movement along the line of dance
  of the lead
  of the follower
 , with 
+ Q
 partially realized 
 aborted 
 large 
@@ -7121,11 +7390,26 @@ Sixteenth
 Seventeenth
 Eighteenth
 Nineteenth
+Z0R
+Z≡╥
+R
+BPA
+0O
+`O
+≡U
+E⌠
+╨U
 disasters
+XZ
+EBA_NXZ
+QEAA_KXZ
 _Cnd_signal
+AAXXZ
+EAAHXZ
 The impertinent lava has defaced a 
 The impertinent magma has defaced a 
  pauses to regain 
+2PA
 A 
  sculpture has melted!
 Digging designation cancelled: warm stone located.
@@ -7134,7 +7418,26 @@ Digging designation cancelled: damp stone located.
 Shearer
 L_RenderClear
 L_NumJoysticks
+ Q
+0O
+0O
+`O
+0O
 TAN_MAT
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
 Shop
 Trade Depot
 Nest
@@ -7256,6 +7559,7 @@ Horizontal
  Axle
  Support
  Pillar
+`O
 Upright 
 Retracted 
 Spears
@@ -7305,6 +7609,7 @@ Your trap was robbed of the
 BALLISTA
 [SELECT_CASTE:ALL]
 ITEMS_SIEGE_ENGINE
+3Cú
 SHELL
  closes.
 You hear 
@@ -7317,6 +7622,37 @@ grinding.
  has constructed a masterpiece!
 preparetomb() HAS NULL owner
 preparetomb() HAS LIVE owner
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
+0O
 A masterwork of 
  has been lost!
 :BP:BY_CATEGORY:ALL:SPLEEN
@@ -7401,6 +7737,7 @@ OBJECT
 BUILDING_WORKSHOP
 BUILDING_FURNACE
 Unrecognized Building Definition Type: 
+B≡╥
 REACTION_CLASS
 HAS_MATERIAL_REACTION_PRODUCT
 HAS_ITEM_REACTION_PRODUCT
@@ -7445,6 +7782,7 @@ HAS_TOOL_USE
 BUILD_ITEM
 CREATURE_MAT
 PLANT_MAT
+FF]
 NAME
 NAME_COLOR
 BUILD_LABOR
@@ -7476,6 +7814,8 @@ This is the
 gen
 RANDOM
 MAGMA_WALL_S_W
+╨R
+`O
 CUSTOM_COMPANY_FACTOR
 CUSTOM_COMPANY_LEADER
 administrator
@@ -7499,10 +7839,18 @@ WALL_SHADOW_AT_CORNER_SW
 eighth eldest daughter
 plotter (steal artifact) placed out of bounds
 V
+`O
 plotter (assassinate) placed out of bounds
+`O
 maggot
+0O
+`O
+`O
 have similar grammatical structures
 intrigue traveler placed out of bounds (infiltrator)
+0O
+`O
+ Q
 RESERVED_BLOOD
 CUSTOM_OUTCAST_FACTOR
 representative
@@ -7511,6 +7859,7 @@ lieutenant
 lieutenants
 </abs_tile_z>
 </structures>
+n
 Designate, Dump
 plotter (funding network) placed out of bounds
 COURAGE
@@ -7530,6 +7879,7 @@ ENT
 _DIV 
 HF
 certain lines 
+╨U
  pull
  pulls
  on the embedded 
@@ -7594,6 +7944,7 @@ pushes
  drop away as 
 attack
 attacks
+ Q
  catch
  catches
  attack 
@@ -7629,6 +7980,7 @@ silently
 The force bends the 
 The force twists the 
 The force pulls the 
+`O
  leap at 
  leaps at 
  charge at 
@@ -7657,6 +8009,7 @@ coating
 covering
 myself
 my
+I
 yourself
 were 
 will be 
@@ -7743,6 +8096,7 @@ Speaking as a representative of
   It should be brought to 
 It would be wonderful if 
  found a lasting home within 
+╨L-
  wants 
  returned
  returned to 
@@ -8869,6 +9223,7 @@ I saw
  preach
 a sermon
  preached 
+A
  sermon 
  was preached
 history
@@ -9504,6 +9859,7 @@ many died
 I slew 
 many foes
 is quite comfortable with others that have a different appearance or culture
+ Q
 It is scorching hot!
 It is freezing cold!
 Is that 
@@ -9954,6 +10310,7 @@ Custom butcher object shape not found:
 : Cannot find SPECIFIC_FOOD:PLANT token 
 : Cannot find SPECIFIC_FOOD:CREATURE token 
 Unrecognized Color Token: 
+LaA
 LOCAL_CREATURE_MAT
 caravan from 
 Fly
@@ -10086,16 +10443,21 @@ ITEMCORPSE_QUALITY
 BEACH_FREQUENCY
 UNDERSWIM
 CANOPENDOORS
+ Q
 GETS_WOUND_INFECTIONS
+ Q
 GETS_INFECTIONS_FROM_ROT
 NOFEAR
 NOSTUCKINS
+`O
 PARALYZEIMMUNE
 NOSKULL
 NOSKIN
 NOBONES
 NOMEAT
+ Q
 HASSHELL
+ Q
 NOEXERT
 NOPAIN
 Wound Dressing
@@ -10107,7 +10469,9 @@ NOTHOUGHT
 ARENA_RESTRICTED
 NO_THOUGHT_CENTER_FOR_MOVEMENT
 NO_CONNECTIONS_FOR_MOVEMENT
+ Q
 NOEMOTION
+ Q
 TRANCES
 NOSTUN
 NONAUSEA
@@ -10357,6 +10721,8 @@ ARG2
 ARG3
 ARG4
 ARG5
+l
+ Q
 SET_LAYER_TISSUE
 TL_RELATIVE_THICKNESS
 TL_CONNECTS
@@ -10368,6 +10734,7 @@ NORMAL
 Unknown Body Group/Relation Token(s): 
 Unknown Body Part Position Token: 
 Tissue layer not added because no BP found: 
+0O
 TISSUE_NAME
 Tissue Definition 
  missing plural string
@@ -10404,6 +10771,7 @@ SUBORDINATE_TO_TISSUE
 TISSUE_MAT_STATE
 TISSUE_LEAKS
 Tissue Template 
+&4V
 TISSUE_TEMPLATE
 Unrecognized Tissue Template Token: 
 LOCAL_PLANT_MAT
@@ -10423,6 +10791,7 @@ CREATURE_VARIATION
 Unrecognized Creature Variation Token: 
 ADD_MATERIAL
  needs 2 tokens: 
+V¡"
 ADD_TISSUE
 BP_POSITION
  needs 3 tokens: 
@@ -10902,6 +11271,7 @@ is incredibly small and skinny
 is tiny
 do not have enough chests
 that more might die
+ Q
 slightly swollen
  is mangled beyond recognition.  
  are spilled.  
@@ -10977,6 +11347,7 @@ high-voiced
 raspy-voiced
 clear-voiced
 body is 
+`O
  is gone.  
 has very high cheekbones
 has high cheekbones
@@ -13098,7 +13469,9 @@ VIOLENT
 WILD
 ASSERTIVE
 ARTIFICE
+ Q
 MYSTERY
+ Q
 LEADER
 DOMESTIC
 MYTHIC
@@ -13492,6 +13865,7 @@ Glacier
 Tundra
 Grassland
 Hills
+ Q
 undefined local creature material set to default: 
 undefined local plant material set to default: 
 undefined creature material set to default: 
@@ -14923,6 +15297,7 @@ BIOME_RIVER_TEMPERATE_FRESHWATER
 [PROCEDURAL_CREATURE_GRAPHICS:DEFAULT]
 [NIGHT_CREATURE_HUNTER]
 [PCG_LAYERING:
+ Q
 NULL play unit on load: id #
 FATAL ERROR
 NULL item pointer on load
@@ -14959,6 +15334,7 @@ Nuked Entity Population Reference
 Nuked Breed Reference
 Nuked Art Image Reference
 Nuked Creature Def Reference
+r
 NULL JOB ITEM (2): 
 NULL JOB ITEM (1): 
 NULL item projectile loaded
@@ -14993,6 +15369,8 @@ patching dangerously broken trade definition -- magma powder changed to water/sn
 removed erroneous unit occupancy flag
 removed erroneous unit ground occupancy flag
 Repairing squad info for Unit #
+·_c
+ Q
 have corrupt feature map at 
 Loading world to start new game
 Loading object files...  
@@ -15084,6 +15462,7 @@ Loading general information...
 Rebuilding more temporary information...
 Preparing game screen...
 Handling compatibility issues...
+`O
 data/installed_mods/
 Newer compatible version of mod detected:
  (save uses 
@@ -15109,14 +15488,21 @@ Unrecognized Shape Token:
 SIMPLE
 BLD_DIRT_ROAD
 SKILL_ROLL_RANGE
+`O
+ Q
 invalid lair entrance
 BUTTON_PRIORITY_1_INACTIVE
 BLD_BRIDGE_GLASS_NS_CENTER
+ Q
 NAME_GRASSLAND
 NULL artifact on create site map, skipping
 CHAR
+C
 IT_AFFECTED_CREATURE
 IE_ITEM_QUALITY
+P
+R
+B
 the word
 menacing
 submitting
@@ -15137,6 +15523,7 @@ charges
 A new chapter of dwarven history begins here at this place, 
 autosave 
 Give food
+`O
   Offloading units... 
   Offloading units...  
 GEM_A_WALL_N
@@ -15156,6 +15543,7 @@ Weapons and Ammunition
 Siege Equipment
 Other Objects
 Engrave Memorial Slab
+`O
 [Requires fuel]
 [Requires ore]
 [Requires ore, fuel]
@@ -15164,8 +15552,11 @@ Entombed
 slab engraved
 no slabs engraved
 HILL_DWARF
+ Q
+P"
 <type>change hf state</type>
 Building Placement Distance Overflow
+ Q
 dfhooks_init
 dfhooks_shutdown
 dfhooks_update
@@ -15183,7 +15574,12 @@ New window size:
 Font size: 
 Resizing grid to 
 Resizing font to 
+`O
+ Q
+ÉT
 EMERGENCY: Unknown case in async_wait
+0O
+`O
 crashlogs
 TEXT not supported on windows
 PRINT_MODE
@@ -15193,6 +15589,7 @@ SDL initialization failure
 Space
 Tab
 D
+E
 F
 Mousewheel 
 Button 
@@ -15204,6 +15601,7 @@ REPEAT_FAST
 REPEAT_SLOW
 REPEAT_NOT
 Broken repeat request: 
+0O
 Unknown SDLKey: 
 Broken unicode: 
 Broken button (should be [BUTTON:#:#]): 
@@ -15215,6 +15613,7 @@ stoi argument out of range
 invalid stoi argument
 Saving bindings to 
 [VERSION:1]
+:UP]
 [BIND:
 REPEAT_BROKEN
 [MOUSEWHEEL:
@@ -15231,10 +15630,22 @@ I/O error while loading macro
 prefs/macros/
 prefs/macros
 .mak
+ Q
+╨U
  from father
+ Q
+ Q
+`O
+`U
+ÉT
+`U
+αU
+`O
 murdered
 prison
 handler
+`O
+ Q
 x
  associating armor out of range: 
  associating pants out of range: 
@@ -15242,10 +15653,16 @@ x
  associating shoes out of range: 
  associating gloves out of range: 
 CHEESE_MAT
+`O
+ Q
  Crafts
  Logs
 [EXPERIMENT_ONLY]
 Prepared Food
+`O
+håà
+håà
+r≡╥
 --- Logging Entity 
 CUT_ENTITY
 SELECT_ENTITY
@@ -15462,8 +15879,12 @@ DEMAND_MAX
 ACCOUNT_EXEMPT
 DUTY_BOUND
 Unrecognized Entity Token: 
+b
+d
+l
 f
 g
+k
 br
 bl
 dr
@@ -15490,8 +15911,10 @@ gr
 gl
 kr
 kl
+p
 pr
 pl
+j
 jr
 jl
 m
@@ -15510,14 +15933,21 @@ ay
 u
 *** Error(s) finalizing the entity 
 Unrecognized entity creature token: 
+ Q
 Unrecognized entity digger token: 
 Unrecognized entity weapon token: 
+αU
 Unrecognized entity armor token: 
 Unrecognized entity ammo token: 
+`O
 Unrecognized entity helm token: 
+ Q
 Unrecognized entity gloves token: 
 Unrecognized entity shoes token: 
+`O
+ Q
 Unrecognized entity pants token: 
+PR
 Unrecognized entity shield token: 
 Unrecognized entity trapcomp token: 
 Unrecognized entity toy token: 
@@ -15531,6 +15961,7 @@ Unrecognized entity position allowed caste token:
 Unrecognized entity position rejected caste token: 
 Gem shape not found: 
 Stone shape not found: 
+ Q
 LOCATION_OCCUPATION_TAVERN_KEEPER
 CUSTOM_BANDIT_LEADER
 leader
@@ -15571,6 +16002,7 @@ blade
 mace
 hammer
 spear
+╨¥F
 crossbow
 pike
 whip
@@ -15599,10 +16031,12 @@ up the stairs
 , at the end of the hall
 String: Character 085
  used good tactics
+ Q
 UNDIGGABLE
 CUSTOM_MERCENARY_TREASURER
 treasurer
 treasurers
+ Q
 [ATTACK:BLUNT:60000:8000:slap:slaps:flat:1250]
 NULL artifact on wg loot building, skipping
 HIGHEST_PRIEST
@@ -15613,6 +16047,7 @@ absolute
 most high 
 most high priest
 most high priests
+0O
 IS_GLASS
 CUSTOM_LAW_MAKER_2
 baron
@@ -15625,6 +16060,7 @@ baroness consort
 baronesses consort
 Murder-target mismatch: year 
 , entity #
+ Q
 law-giver
 law-givers
 CUSTOM_MILITARY_GOALS
@@ -15685,20 +16121,30 @@ bridge
  officials
  commissioner
  commissioners
+ Q
+uÑ≡╥
 has an utterly languid pace of easy living, calm and slow
 did not find tool with index 
 abbot
 abbots
  as a 
+ü*C
+ Q
 String: Character 015
 SOIL_WALL_E_2
 </squad_id>
 WORSHIP_HF
+╨U
+`O
+╨U
+`O
+ Q
 failure to get start square construction for transport link
 failure to get end square construction for transport link
 midmap construction path build failure
 Entity 
  has self-referential diplomacy state
+`O
 uh
 <holding_civ_id>
 [PROFILE]
@@ -15709,6 +16155,7 @@ TITLE:
 [PET:
 Leather armor
 Metal armor
+ Q
 CUSTOM_GUILD_LEADER
 doyen
 doyens
@@ -15728,9 +16175,17 @@ clerks
 steward
 stewards
 alderperson
+Hòï
 FILE
 ITEM_HELM
 near favorite animal
+ Q
+`O
+╨U
+ Q
+ Q
+ Q
+ Q
 entity_layer
 [OBJECT:ENTITY]
 [ENTITY:
@@ -15740,6 +16195,7 @@ the rampage of the forces of
 a mandate deadline met
 [B]The 
  trying to generate musical form without speech or instruments
+p╫¢
 melt
 n
 ~re
@@ -15751,11 +16207,25 @@ Mission Report:
 camp order missing parent -- army will camp forever
 invalid nem in army during guard creation
 guard army unattached from parent army
+`O
+`O
+ Q
 Circulation
+ Q
+ Q
 Miner destination wiped
+0O
+B≡╥
 Your fortress is out of food!
+`O
+`O
+`O
 body
+ Q
+∩d
+0O
 MOUNTAIN REJECTION
+`O
 are now expert 
  trainers.
 are now quite knowledgeable 
@@ -15769,27 +16239,38 @@ Tribute is being unloaded.  (A report is available.)
 Merchants have arrived and are unloading their goods.
 A trade depot is requiered for the delivery of the tribute.
 The merchants need a trade depot to unload their goods.
+ Q
+ Q
 An animal
  has become a 
  has adopted 
  were expelled
 RAINFALL REJECTION
+ Q
 there was a ceremony
 an order of precedence
 SAND_R_WALL_N_W
 incident
+╨U
+ Q
 settled
+!X╒I≡╥
+`O
 Execute criminal
 </fear>
 TREE_TRUNK_THICK_INTERIOR
 MAGENTA_G
 ITEM_BARS
 BIOME_LAKE_TROPICAL_BRACKISHWATER
+0R
 FIRSTCONTACT
+░╒n
+ Q
 Something has pulled a lever!
 Something has triggered a pressure plate!
 Something has emptied a cage!
 Something has unchained a creature!
+ Q
 unused 
 improvable 
 butcherable 
@@ -15921,21 +16402,47 @@ offering placement
 divination
 games of chance
  that isn't a bin
+&Rz
+ Q
+ Q
+ Q
+ Q
 WORLD_EDGE_BEACH_GOOD_THIN_CORNER_TRANSITION_SE_S
 rtoull
 Short Pathing Flood Overflow
+ Q
+ Q
+ Q
+ Q
+0O
  by a 
 flown
 rough 
  block
+`O
+0O
+0O
+`O
+╨U
+≡U
+0Y
+áW
+0O
 the river
+`O
 the cave
+╨U
 the pit
 the magma pool
+≡U
 the volcano
 the underworld portal
 the subterranean water
+0Y
 the underworld
+áW
+╨U
+`O
  deposit
 : Null Pop Num
 system
@@ -15943,6 +16450,9 @@ unknown error
 prefs/macros/*.mak
 text
 save/*.*
+0O
+╨U
+`O
 String: Character 139
 The glowing barrier has disappeared, replaced by terrible shrieks from the underworld!
 The glowing barrier has disappeared!
@@ -15952,7 +16462,9 @@ Some ancient horror was encased here, until now!
 Apocalypse!  We are being judged by the gods!
 Something evil is emerging from this newly exposed pocket!
 We have unleashed the echo of a forgotten divine retribution!
+`O
 Horrifying screams come from the darkness below!
+B≡╥
 Migrants refused to journey to such a dangerous and unhappy fortress this season.
 Invalid ASCII RECTANGLE 
 save/current/world.dat
@@ -16208,11 +16720,15 @@ shield
 footwear
 headwear
 legwear
+C ù
 A kidnapper has made off with 
  has stolen 
 zaniness
 A thief has stolen 
+ Q
+`O
 philosophy:logic:formal reasoning
+ê┼y≡╥
 of 
 Of 
  begins to stalk and brood...
@@ -16232,12 +16748,15 @@ WORLD_EDGE_BEACH_EVIL_THINNING_W_N
 solid
 no material
 items
+ Q
 <interaction>
 <entity_2>
+B≡╥
  caught in a cloud of flames!
  caught up in the web!
 <type>create entity position</type>
 FURNACE_GLASS_LAVA
+6V
 [CDI:MAX_TARGET_NUMBER:A:1]
 ASH_GLAZE
 No access to 
@@ -16286,6 +16805,7 @@ Meager Study
 No Study
 it growls, buzzes, clicks and generally makes a varied racket
 WORLD_EDGE_WETLAND_GOOD_THIN_CORNER_TRANSITION_SE_E
+∩rd
  has been disturbed.
 group of 
 Many 
@@ -16297,9 +16817,14 @@ WORLD_EDGE_DESERT_TINY_CORNER_NW
 owner
 STRING_A003
 WORKSHOP_FARMER
+ Q
+ Q
+0Y
+└R
 an official land of the realm
  and the surrounding lands have been made 
 an even more official land of the realm
+ÉT
 lumber limits
 ROOM SHARING INDEX OUT OF BOUNDS: 
 Stone Hauling
@@ -16368,6 +16893,7 @@ SIGINT
 SIGILL
 SIGABRT
 SIGFPE
+%Y-%m-%d-%H-%M-%S
 {timestamp}
 Master Lasher
 bad variant access
@@ -16378,8 +16904,11 @@ graphics/palette_*
 D_HOTKEY14
 REC
 FPS: 
+ Q
 index1_81
+ Q
 to the position of 
+ Q
 CAN_STONE
 32 x 32
 [IS_SECRET:MUNDANE_TEACHING_POSSIBLE]
@@ -16406,6 +16935,11 @@ Could not load file
 : unsupported file or audio format.
 [BODY_DETAIL_PLAN:BODY_HAIR_TISSUE_LAYERS:HAIR]
 Werebeast Attack Population Rating
+0O
+0O
+0O
+p∩
+ Q
 <hfid1>
 <reason>
 insurrection
@@ -16753,6 +17287,7 @@ murdered hf
 historical event collection
 acquired artifact
 claimed artifact given away
+B0R
 preying on civilized for blood
 unnaturally ageless
 scholarly lecture in site
@@ -16961,6 +17496,27 @@ after embezzling funds
 </rep_thief>
 <rep_information_source>
 </rep_information_source>
+`O
+╨U
+≡U
+0Y
+áW
+└R
+`U
+ÉT
+`O
+╨U
+≡U
+0Y
+áW
+└R
+`U
+ÉT
+`O
+╨U
+≡U
+0Y
+áW
 a time before time
  became childhood friends
  cemented a bond of friendship amidst the horror of combat
@@ -18121,6 +18677,7 @@ the naming of
 the acquisition of a copy of 
 the original 
  from
+`O
  was lost
 the disappearance of 
  was found
@@ -18350,6 +18907,7 @@ subject
 an unidentified creature
 [LPAGE:SITE:
 an unknown site
+0O
 a wall
 a bridge
 a tunnel
@@ -18378,6 +18936,7 @@ a fortress entrance
 a barrow
 [LPAGE:AB:
 [LPAGE:BOOK:
+`O
 an unknown artifact
 [LPAGE:FL:
 the Underworld
@@ -18403,8 +18962,12 @@ It is still shrouded in mystery.
 Many facts are still unclear to historians.  
 A few issues still trouble scholars, but the picture is fairly clear.  
 PLACED_AS_BUILDING
+ Q
 NULL heirloom artifact
 NULL artifact from dead wg inventory, skipping
+ Q
+ Q
+█m─
 HF_LINK
 RANDOM_DEF_SPHERE
 some vague concept
@@ -18433,8 +18996,15 @@ Unknown creature in
 Unknown creature[R]
  Other Kill
  in the wilds
+0Y
+áW
+└R
+`U
+ÉT
 </site>
 A poetry recital
+ Q
+ Q
 Duel of 
 Pillaging
 Conquest
@@ -18474,12 +19044,17 @@ Closing Ceremony
 Main Ceremony
 FROZEN_OCEAN_GOOD
 NULL artifact from wg storage, skipping
+ Q
 [CE_CLOSE_OPEN_WOUNDS:SEV:100:PROB:100:START:0:PEAK:0:END:12:ABRUPT]
+`O
 NULL artifact from wg scholar storage, skipping
 the River Mouth
 , once of the Underworld.  
 By 
 I bind myself to this place.
+0O
+ Q
+ Q
 <historical_event>
 <id>
 </id>
@@ -19639,10 +20214,17 @@ infiltrate society
 </plot_actor>
 </intrigue_plot>
 NULL artifact from dead post-wg inventory, skipping
+ Q
 United with 
 world view filter not set (adjust ci ps)
 world view filter not set (moderate private opinion)
+dAâ
 [NOUN]
+ Q
+ Q
+`O
+ Q
+`O
 This nameless being
 a deity
  that occurs in the myths of 
@@ -19666,6 +20248,9 @@ guided by forces unknown.
  most often takes the form of a 
  was most often depicted as a 
 associated with 
+ Q
+Y±°
+`O
 data/art/curses_640x300.png
 data/init/init_default.txt
 data/art/
@@ -19756,9 +20341,40 @@ data/art/scrollbar.png
 data/art/filter.png
 data/art/tabs.png
 data/art/sort.png
+■G
+┐F
+└F
+┴F
+┤F
+│F
+/C
+\C
+█C
+ F
+-F
 data/art/black_background.bmp
+0O
 DEAD_SAPLING_COLOR
 a secret identity
+0O
+`O
+╨U
+0Y
+≡U
+Pƒ╬
+0O
+`O
+╨U
+≡U
+0O
+`O
+└R
+ Q
+`U
+0Y
+╨U
+≡U
+áW
 --- Logging Interaction 
 CUT_INTERACTION
 SELECT_INTERACTION
@@ -19781,6 +20397,7 @@ LOCATION
 I_EFFECT
 ANIMATE
 RAISE_GHOST
+ Q
 RESURRECT
 PROPEL_UNIT
 SUMMON_UNIT
@@ -19958,6 +20575,7 @@ HAS_TILE
 HAS_COLOR
 HAS_GLOW_TILE
 HAS_GLOW_COLOR
+ Q
 engineering:horology:water clock reservoir
 HAS_SOUND_ALERT
 HAS_SOUND_PEACEFUL_INTERMITTENT
@@ -20021,9 +20639,26 @@ Unrecognized corpse target immune creature token:
 Unrecognized corpse target immune caste token: 
 STRING_A048
 it pays attention carefully to anybody that is speaking
+╨U
 Unrecognized Creature/Caste Token in Summon Unit Effect: 
+`O
+`O
+`O
+`O
+`O
+`O
+`O
+`O
+`O
+`O
+`O
+≡U
+PR
+└R
+r≡╥
  (copy)
  is aware of 
+ Q
 This is
 This is a stack of
  bundles of
@@ -20133,16 +20768,22 @@ You gain possession of the
 You maintain possession of the 
  is torn from your 
 You've lost possession of the 
+`O
+`O
+ Q
 the construction and use of the armillary sphere
 a precise explanation of the cause of twilight involving atmospheric refraction
 Shapes
+0O
 the Sand
 the Price
+`O
 astronomy:geocentric model
 engineering:machine:water-powered trip hammer
 Worshipped 
 [BUILDING:METALSMITH:NONE]
 BUTTON_PAINT_RECTANGLE_ACTIVE
+l╓{
 null item load -- type: 
 ZONE_ACTIVE_W
 FURNACE_KILN_LAVA
@@ -20154,6 +20795,9 @@ GEM_C_WALL_W
 ORE_VEIN_WALL_N_S
 ENGRAVED_STONE_WALL_N_S_E
 MOSS_WALL_W_E
+ Q
+0O
+ Q
 icicle
 mangled 
 partial 
@@ -20177,10 +20821,14 @@ shared
 exceptional 
  woven by 
 Water is frozen
+`O
 UNITLIST_SORT_HAPPINESS
 STRING_A123
+'d⌠
+ Q
 NULL inventory pointer on load
 NULL inventory item on load: id #
+`O
 Cull Unimportant Historical Figures
 Slayer
  kill
@@ -20395,7 +21043,16 @@ The written portion consists of
 nothing.
  page 
 untitled 
+└R
+ÉT
+0O
+`O
+╨U
+≡U
 BOLT
+0Y
+áW
+`U
 --- Logging Item 
 CUT_ITEM
 SELECT_ITEM
@@ -20454,6 +21111,7 @@ TOOL_USE
 : Did not find token following TOOL_USE
 CONTAINER_CAPACITY
 DEFAULT_IMPROVEMENT
+⌡m≡╥
 MUSIC_SKILL
 TIMBRE
 REGISTER
@@ -20511,8 +21169,14 @@ item_layer
 [OBJECT:ITEM]
 [ITEM_
 [PCG_LAYERING:WEREBEAST_CHAMELEON]
+`O
+»ec
+ Q
 GIZZARD_STONE
+ Q
 WORLD_EDGE_SAND_DESERT_RED_THICK_CORNER_SW
+'dN
+╨mï
 DOUBLE TAGGED ITEM: 
 Remove Rotten Tissue
 Repair Compound Fracture
@@ -20750,6 +21414,8 @@ Operate pump
 Load cage trap
 Load stone trap
 Load weapon trap
+ Q
+l╓╪
 SELECT
 SELECT_ALL
 LEAVESCREEN
@@ -21305,6 +21971,7 @@ CUSTOM_Z
 CUSTOM_SHIFT_A
 CUSTOM_SHIFT_B
 CUSTOM_SHIFT_C
+ Q
 CUSTOM_SHIFT_D
 CUSTOM_SHIFT_E
 CUSTOM_SHIFT_F
@@ -21345,6 +22012,7 @@ CUSTOM_CTRL_L
 CUSTOM_CTRL_M
 CUSTOM_CTRL_N
 CUSTOM_CTRL_O
+αU
 CUSTOM_CTRL_P
 CUSTOM_CTRL_Q
 CUSTOM_CTRL_R
@@ -21415,10 +22083,12 @@ Move view/cursor down and left
 Move view/cursor down and right
 Move view/cursor up, fast
 Move view/cursor down, fast
+┴█A
 Move view/cursor left, fast
 Move view/cursor right, fast
 Move view/cursor up and left, fast
 Move view/cursor up and right, fast
+ t7
 Move view/cursor down and left, fast
 Move view/cursor down and right, fast
 Move view/cursor up (z)
@@ -21751,6 +22421,7 @@ String: Character 083
 String: Character 084
 String: Character 086
 String: Character 087
+0O
 String: Character 088
 String: Character 089
 String: Character 090
@@ -22055,8 +22726,10 @@ Caret
 Underscore
 Backquote
 c
+h
 q
 w
+z
 Numpad 0
 Numpad 1
 Numpad 2
@@ -22111,9 +22784,13 @@ Help
 Print
 Sysreq
 Menu
+A
 E
 I
 M
+Q
+U
+`O
 No macros!
 being pestered by 
 NAME_SWAMP
@@ -22201,6 +22878,8 @@ costumes
 candles
 the giving of 
 the sacrifice of 
+Z
+`O
 Sorting
 Initialization complete...
 Historical events 
@@ -22210,6 +22889,9 @@ Historical figures
 Artifacts completed
 Structures completed
  event sort 
+B≡╥
+αuç
+ Q
 Explore the history of 
 Exporting!
 Export XML
@@ -22248,6 +22930,7 @@ began.
  was waged by 
 The most significant cause of the conflict was 
 One of the most significant causes of the conflict was 
+'dp
  a family matter
  disgust with the adversary's godlessness
  religious opposition to the adversary's worship of 
@@ -22344,10 +23027,12 @@ sewers
 dungeon
 tower
 Unknown structure
+`O
 is always in love with somebody and easily develops positive feelings
 Machine node out of bounds on split
 Failed to find machine node frontier on split
 Unreachable machine node on split
+SR
 FL
 AB
 EPOP
@@ -22356,15 +23041,33 @@ HEC
 /LPAGE
 VAR
 KEY
+0O
 MOON_PHASE
+0O
+`O
+╨U
+≡U
+0Y
+áW
+└R
+ Q
+`U
+ÉT
+A
+Eç⌡
 BRANCHES
+╨R
 IGNEOUS_ALL
 TWIGS_BELOW_TRUNK
+Jÿ÷
+pÿ≈
+46J
 d>
 ALT_GRASS_TILES
 Unrecognized Material Template Token: 
 *** Error(s) finalizing the material template 
 Unrecognized Color Token in Material Template: 
+ Q
 IMPLIES_ANIMAL_KILL
 ALCOHOL_PLANT
 ALCOHOL_CREATURE
@@ -22505,6 +23208,8 @@ ITEM_REACTION_PRODUCT
 HARDENS_WITH_WATER
 SOAP_LEVEL
 MULTIPLY_VALUE
+`O
+ Q
 magma
 boiling magma
 WORKSHOP_BOWYER
@@ -22683,6 +23388,7 @@ CE_DISPLAY_NAME
 Unrecognized CE_DISPLAY_NAME token: 
 CE_FLASH_TILE
 Unrecognized CE_FLASH_TILE token: 
+r≡╥
 CE_PHYS_ATT_CHANGE
 Unrecognized CE_PHYS_ATT_CHANGE token: 
 CE_MENT_ATT_CHANGE
@@ -22759,6 +23465,7 @@ RCP_2_TAILS
 WORLD_EDGE_WETLAND_THICK_CORNER_SW
 RCP_GLOSS_HOOF
 WORLD_EDGE_GRASS_TROP_THIN_CORNER_NE
+`O
  coughs
  cough
  up blood.
@@ -22779,6 +23486,7 @@ TARGET_RANGE
 LOCATION_HINT
 USAGE_HINT
 ADV_NAME
+R
 MAX_TARGET_NUMBER
 WAIT_PERIOD
 VERBAL_SPEECH
@@ -22792,6 +23500,7 @@ BP_REQUIRED
 CUT_INORGANIC
 SELECT_INORGANIC
 : Could not locate material template 
+Dz≡╥
 WAFERS
 SPECIAL
 DEEP_SPECIAL
@@ -22907,6 +23616,7 @@ DEAD_PICKED_COLOR
 SHRUB_COLOR
 DEAD_SHRUB_COLOR
 BASIC_MAT
+áh"
 SHRUB_DROWN_LEVEL
 TWIGS_SIDE_BRANCHES
 TWIGS_ABOVE_BRANCHES
@@ -22940,6 +23650,8 @@ inorganic_generated
 plant_generated
 [OBJECT:PLANT]
 [PLANT:
+0O
+0O
 ID
  skipped: identifier cannot start with 'vanilla'.
  skipped: identifier cannot start with 'classic'.
@@ -23040,6 +23752,7 @@ path not closed, attempting fix
  has claimed a 
  has begun a mysterious construction!
 Your mason has defaced a 
+7ÆO
 Your engraver has carved a track through a 
 a way with words
  destroyed
@@ -23052,19 +23765,29 @@ loop path fail:
 :Path Goal 
 :Station 
 believes that honesty is a high ideal
+0O
+0O
+`O
+ Q
  has dyed a masterpiece!
  has cooked a masterpiece!
+ Q
 std_atomic_wait_direct
 GEM_C_WALL_N_S_W_E
+`O
 has been cursed
 have been cursed
 You chop down the 
 tree
+SEt≡╥
+`O
+ Q
 hamlet
 --- Logging Music 
 CUT_MUSIC
 SELECT_MUSIC
 *** Error(s) finalizing the music 
+0O
 EXPANSIVE_CAVERN
 DEATH_SPIRAL
 FORGOTTEN_BEAST
@@ -23260,6 +23983,7 @@ using the
 free rhythm
 Throughout, when possible, composers and performers are to 
 Throughout, when possible, performers are to 
+0O
 glide from note to note
 use grace notes
 use mordents
@@ -23465,6 +24189,7 @@ The patterns are to be played over the same period of time, concluding together 
  pattern
 The beats are named 
 The beat is stressed as follows:
+X
 [B]where 
 ! marks the primary accent, 
 X marks an accented beat, 
@@ -23615,6 +24340,7 @@ Minimum Number of High-Volcanism Squares
 prefs/world_gen.txt
 WORLD_GEN
 LARGE ISLAND
+`O
 LARGE REGION
 MEDIUM ISLAND
 MEDIUM REGION
@@ -23815,6 +24541,7 @@ The world generator is having trouble placing farming civilizations.
 Civilizations use available plants in their surroundings as their initial crops.  
 Make sure your parameters and raw objects have adequate vegetation.  
 ** Starting New Arena **
+B
 Command Line: World generation parameter set located successfully.
 Command Line: World generation parameter set 
  not found -- using default.
@@ -24026,6 +24753,7 @@ Change
 Are you sure you want to abort?
 You haven't saved your changes.
 Are you sure you want to go on?
+É²A
 LARGE
 vanilla_text
 vanilla_languages
@@ -24218,10 +24946,12 @@ EUPHORIA
 EXCITEMENT
 GAIETY
 Unrecognized Emotion Token: 
+ Q
 No weapon
 [INTERACTION:RCP_MATERIAL_EMISSION]
 [CE_BODY_TRANSFORMATION:START:0:PEAK:0:END:5:ABRUPT:DWF_STRETCH:144]
 WORLD_EDGE_WETLAND_THINNING_S_E
+á3x
 Like others in 
  culture, 
 personally 
@@ -25410,6 +26140,7 @@ Congratulations!  (You should be proud of your accomplishment.  Embark in a worl
  has ended a mandate.
 A mandate has ended.
 FROZEN_OCEAN_EVIL
+ÇgE
 Wagon Pathing Catastrophe
 The annual tribute from 
 Although it is a grim reminder of the winter hardships to come, the supply caravan from 
@@ -25489,9 +26220,13 @@ NATIVENAME
 TRANSLATEDNAME
 TITLENAME
 HISTNAME
+PÄJ
+R
 Wagon arrival location
+â\z
  has been elected 
  has been re-elected.
+":PA
 the past
 current events
 the future
@@ -25982,7 +26717,9 @@ cluster
 wall
 fortification
 pillar
+b
 WORLD_EDGE_GLACIER_GOOD_THIN_CORNER_TRANSITION_SW_W
+J
  away from the 
  skip
  skips
@@ -25995,6 +26732,7 @@ blows
  apart!
  into an obstacle!
  flight path!
+b
  struck by a ball of flames!
 [CE_CAN_DO_INTERACTION:START:0:ABRUPT]
 [CDI:ADV_NAME:Vanish]
@@ -26453,6 +27191,7 @@ liquid cloth
 [MOLAR_MASS:1]
 [ITEMS_SOFT]
 [SPHERE:
+1XC
 EVIL_CLOUD_
 [SPECIAL]
 cursed
@@ -26986,7 +27725,9 @@ MAKE_
 [CATEGORY:INSTRUMENT]
 [CATEGORY_NAME:Make instrument
 [CATEGORY_DESCRIPTION:Assemble complete musical instruments and construct single-piece instruments.]
+ Q
 *** Error(s) found in Random Creature Generation
+═╠L?ⁿ⌐±╥MbP?
 FORGOTTEN_BEAST_
 TITAN_
 DEMON_
@@ -27202,6 +27943,7 @@ armless biped
 [TRAPAVOID]
 [BUILDINGDESTROYER:2]
 [CREATURE_TILE:
+ Q
 RCP_5_FRONT_FINGERS
 RCP_4_FRONT_FINGERS
 RCP_3_FRONT_FINGERS
@@ -27282,6 +28024,7 @@ composed of
 [TISSUE_NAME:tissue:NP]
 [TISSUE_MATERIAL:
 [TISSUE_MAT_STATE:
+ Q
 [MUSCULAR]
 [FUNCTIONAL]
 [STRUCTURAL]
@@ -27403,6 +28146,8 @@ STANDARD_QUADRUPED_GAITS
 STANDARD_BIPED_GAITS
 [APPLY_CREATURE_VARIATION:
 [APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:900:675:450:225:1900:2900]
+ Q
+ Q
 [APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:900:675:450:225:1900:2900]
 BOGEYMAN_POLYMORPH
 [CDI:ADV_NAME:Transform]
@@ -28004,6 +28749,7 @@ Now you will know why you fear the night.
 [PCG_LAYERING:BEAST_WORM_SHORT_SHELL_BACK]
 [PCG_LAYERING:BEAST_INSECT_SHELL_BACK]
 [PCG_LAYERING:BEAST_BIPEDAL_DINOSAUR_SHELL_BACK]
+ Q
 [PCG_LAYERING:BEAST_FRONT_GRASP_SHELL_BACK]
 [PCG_LAYERING:BEAST_WALRUS_SHELL_BACK]
 [PCG_LAYERING:BEAST_SCORPION_TAIL_ONE]
@@ -28035,6 +28781,7 @@ Now you will know why you fear the night.
 [PCG_LAYERING:BEAST_SPIDER]
 [PCG_LAYERING:BEAST_SCORPION]
 [PCG_LAYERING:BEAST_BIPEDAL_DINOSAUR]
+0O
 [PCG_LAYERING:BEAST_HUMANOID]
 [PCG_LAYERING:BEAST_FRONT_GRASP]
 [PCG_LAYERING:BEAST_FRONT_GRASP_HEX]
@@ -28383,6 +29130,7 @@ sallow
 forlorn
 grim
 wasting
+εQû
 ones
 corpses
 ghouls
@@ -28849,6 +29597,11 @@ GUARDIAN_ENTITY_
 [CLOTHING]
 [TRANSLATION:GEN_DIVINE]
 [T_WORD:
+0O
+`O
+0O
+`O
+╨U
 --- Logging Reaction 
 CUT_REACTION
 SELECT_REACTION
@@ -28856,6 +29609,7 @@ FUEL
 AUTOMATIC
 ADVENTURE_MODE_ENABLED
 CONTAINS
+u▄≡╥
 NOT_IMPROVED
 HAS_WRITING_IMPROVEMENT
 DOES_NOT_ABSORB
@@ -28900,6 +29654,7 @@ STILL
 ASHERY
 CLOTHES
 : Unrecognized Building Token: 
+5A≡╥
 hanging
 art to
 cover to
@@ -28918,6 +29673,7 @@ image set to
 UNDERMAGMA_4_LABEL
 , Crafts
 , Edge
+∙d
 , Paste
 , Pressed
  as a poetic form
@@ -30630,15 +31386,19 @@ the piston
 the water-powered piston bellows
 the trip hammer
 the water wheel
+0O
 Set Region Information Overflow
 *START REGION SAVE*
 *START REGION DIM SAVE*
 *START REGION MAP SAVE*
 *START REGION GEOLOGY SAVE*
 *START REGION SUBREGION SAVE*
+`O
 MOUNTAIN_PEAK_EVILSAV
+A
 _configthreadlocale
 FormatMessageA
+ Q
 Not enough peaks: 
 Not enough medium altitudes
 Not enough medium altitudes after shift down
@@ -30679,6 +31439,8 @@ Error sorting rivers: working with
 Not enough medium altitude locations after erosion
 Not enough low altitude locations after erosion: 
 Not enough high altitude locations after erosion
+┴<A
+`O
 Not enough mountain cave locations
 Not enough mountain cave locations after location check
 Not enough low-lying cave locations
@@ -30698,10 +31460,12 @@ Final glacier region count fails by
 Final tundra region count fails by 
 Final grassland region count fails by 
 Final hill region count fails by 
+ Q
 index1_47
 Loop Erase River Overflow
 Loop Erase River Placement Overflow
 Loop Erase River Temp River Placement Overflow
+ Q
 -detailed.bmp
 -world_map
 .bmp
@@ -30850,6 +31614,7 @@ STANDARD_FLYING_GAITS
 Cannot generate random creatures -- missing creature variation 
 this is the worst workaround for a bug that has ever existed and if you see this putnam will give you a cookie
 in all seriousness if you see this in your errorlog you are allowed to spam me on every platform, i deserve it
+ Q
 Inappropriate Waterlevel Biome Choice (2)
 Inappropriate Waterlevel Biome Choice (4)
 Midmap effective coordinate check out of bounds: 
@@ -30859,6 +31624,8 @@ Woe unto any that disturb the resting place of
  is with 
  but
 boulder graphics
+αüI
+d
 TREE_HEAVY_BRANCH_E_s
 Imported Food
 Imported Clothing
@@ -30870,6 +31637,7 @@ Leather Goods
 Wooden Furniture
 Stone Furniture
 Metal Furniture
+╙Jÿ
 WORLD_EDGE_BEACH_EVIL_THIN_CORNER_TRANSITION_NE_N
 WORLD_EDGE_BEACH_STRAIGHT_S
 WORLD_EDGE_SAND_DESERT_YELLOW_STRAIGHT_E
@@ -30914,6 +31682,7 @@ Connectivity Overflow
 Connectivity Placement Overflow
 Connected Component Overflow
 Update Connectivity Placement Overflow
+'t=
 Select a game type to begin!
 Back to title menu
 World debug
@@ -31040,6 +31809,7 @@ No alert
 PROFILE
 RECLAIM_SKILL
 Unrecognized Embark Profile Token: 
+ Q
 Neighbors:
 Hostile
 Nearest site: 
@@ -31049,12 +31819,17 @@ SW
 NE
 SE
 Here
+0O
+0O
+╨U
+≡U
 You have located 
 ", a 
 WORLD_EDGE_GLACIER_THIN_CORNER_TRANSITION_NE_N
 WORLD_EDGE_GLACIER_EVIL_THIN_CORNER_TRANSITION_SW_S
 WORLD_EDGE_GLACIER_EVIL_THINNING_N_W
 WORLD_EDGE_WATER_EVIL_INLET_NSE
+`O
 -site_map-
 site_color_key.txt
 main tower (255,0,255)
@@ -31064,7 +31839,11 @@ dungeon-tower interface (50,20,50)
 work pits (50,30,20)
 living pits (20,50,40)
 COULD NOT NULLIFY CONSTRUCTION ROAD EDGE
+0O
+ Q
+ Q
 begins to stammer when 
+áW
 castle tower (110,110,110)
 castle wall (70,70,70)
 castle wall walkway (40,40,40)
@@ -31121,7 +31900,9 @@ town yards (100,50,10)
 abandoned (75,50,20), border (50,50,50)
 ruin (50,20,20), border (50,50,50)
 unknown (100,100,100)
+`O
 NULL artifact on site realization, skipping
+0O
 fortress
 mountain halls
 hillocks
@@ -31137,8 +31918,18 @@ important location
 site
 Site Center Flood Overflow
 Non-feature related elevation hole
+`O
+╨U
 WORLD_EDGE_BEACH_EVIL_THIN_CORNER_TRANSITION_SW_S
+≡U
+0Y
+áW
+└R
+`U
+ÉT
+╨R
 NULL artifact removed on load
+╨U
 usually speaks in a whisper
 whispers when 
  is thinking hard about something
@@ -31420,6 +32211,7 @@ bounces
 --- Logging Sound 
 CUT_SOUND
 SELECT_SOUND
+ Q
 *** Error(s) finalizing the sound 
 DEFAULT_SOUND_AMBUSH
 DEFAULT_SOUND_ARTIFACT_CREATED
@@ -31639,6 +32431,7 @@ CUSTOM_STOCKPILE_CORPSES_ON
 CUSTOM_STOCKPILE_CORPSES_OFF
 BUTTON_INFO_CREATURES
 BUTTON_INFO_TASKS
+FIï
 BUTTON_INFO_PLACES
 BUTTON_INFO_LABOR
 BUTTON_INFO_WORK_ORDERS
@@ -32182,6 +32975,7 @@ BUTTON_CATEGORY_RECTANGLE_OFF
 CALENDAR_DAY_PAST
 CALENDAR_DAY_CURRENT
 CALENDAR_DAY_FUTURE
+`O
 BORDER_MIDDLE_INTERSECTION
 BORDER_TOP
 BORDER_BOTTOM
@@ -32206,6 +33000,7 @@ EMBARK_EXPAND_X_ACTIVE
 EMBARK_EXPAND_X_INACTIVE
 EMBARK_CONTRACT_X_ACTIVE
 EMBARK_CONTRACT_X_INACTIVE
+`O
 BUTTON_RECTANGLE_DIVIDER
 INTERIOR_BORDER_N_S_W_E
 INTERIOR_BORDER_N_W_E
@@ -32234,6 +33029,7 @@ SCROLLBAR_BLANK_SCROLLER
 SCROLLBAR_BLANK_SCROLLER_HOVER
 SCROLLBAR_CENTER_SCROLLER
 SCROLLBAR_CENTER_SCROLLER_HOVER
+ Q
 SCROLLBAR_SKY
 SCROLLBAR_GROUND
 SCROLLBAR_UNDERGROUND
@@ -32319,6 +33115,7 @@ AMMO_GRAPHICS_DIAGONAL_WOOD
 SIEGEAMMO_GRAPHICS
 Unknown siegeammo graphics weapon token: 
 SIEGEAMMO_GRAPHICS_STRAIGHT_DEFAULT
+20R
 SIEGEAMMO_GRAPHICS_STRAIGHT_WOOD
 SIEGEAMMO_GRAPHICS_DIAGONAL_DEFAULT
 SIEGEAMMO_GRAPHICS_DIAGONAL_WOOD
@@ -32570,6 +33367,7 @@ PLANNED_CONSTRUCTION_STAIR_UPDOWN
 PLANNED_CONSTRUCTION_RAMP
 PLANNED_CONSTRUCTION_TRACK_N
 PLANNED_CONSTRUCTION_TRACK_S
+└R
 PLANNED_CONSTRUCTION_TRACK_W
 PLANNED_CONSTRUCTION_TRACK_E
 PLANNED_CONSTRUCTION_TRACK_NS
@@ -32618,6 +33416,7 @@ ZONE_INACTIVE_SELECTED_N_W
 ZONE_INACTIVE_SELECTED_N_E
 ZONE_INACTIVE_SELECTED_S_E
 ZONE_INACTIVE_SELECTED_S_W
+ Q
 ZONE_INACTIVE_SELECTED_N
 ZONE_INACTIVE_SELECTED_E
 ZONE_INACTIVE_SELECTED_W
@@ -32626,6 +33425,7 @@ ZONE_INACTIVE_SELECTED_N_S
 ZONE_INACTIVE_SELECTED_W_E
 ZONE_INACTIVE_SELECTED_N_W_E
 ZONE_INACTIVE_SELECTED_S_W_E
+ Q
 ZONE_INACTIVE_SELECTED_N_S_W
 ZONE_INACTIVE_SELECTED_N_S_E
 ZONE_INACTIVE_SELECTED
@@ -32634,6 +33434,7 @@ ZONE_ACTIVE_N_W
 ZONE_ACTIVE_N_E
 ZONE_ACTIVE_S_E
 ZONE_ACTIVE_S_W
+`O
 ZONE_ACTIVE_N
 ZONE_ACTIVE_E
 ZONE_ACTIVE_S
@@ -32785,6 +33586,10 @@ STOCKPILE_ICON_SIGNLESS_WEAPONS
 STOCKPILE_ICON_SIGNLESS_WOOD
 STOCKPILE_ICON_SIGNLESS_CUSTOM
 STOCKPILE_ICON_SIGNLESS_ALL
+`O
+ Q
+`O
+ Q
 UNIT_STATUS
 WAGON_BLD
 WAGON_N
@@ -32957,6 +33762,7 @@ GEAR_ASSEMBLY_SOUTH_AXLE_2
 AXLE_VERTICAL_FITTINGS_1
 AXLE_VERTICAL_FITTINGS_2
 WINDMILL_N_1
+uö≡╥
 WINDMILL_N_2
 WINDMILL_S_1
 WINDMILL_S_2
@@ -32973,6 +33779,7 @@ WINDMILL_SW_2
 WINDMILL_SE_1
 WINDMILL_SE_2
 WATER_WHEEL_NS_1
+'t?
 WATER_WHEEL_NS_2
 WATER_WHEEL_WE_1
 WATER_WHEEL_WE_2
@@ -32989,6 +33796,7 @@ SOIL_WALL_N_1
 SOIL_WALL_N_2
 SOIL_WALL_N_3
 SOIL_WALL_N_4
+α╕T
 SOIL_WALL_S_1
 SOIL_WALL_S_2
 SOIL_WALL_S_3
@@ -33020,6 +33828,7 @@ SOIL_WALL_W_E_1
 SOIL_WALL_W_E_2
 SOIL_WALL_W_E_3
 SOIL_WALL_W_E_4
+Ééz
 SOIL_WALL_N_S_1
 SOIL_WALL_N_S_2
 SOIL_WALL_N_S_3
@@ -33215,6 +34024,7 @@ ROOT_WALL_W_E
 ROOT_WALL_N_S
 SAND_WALL_N
 SAND_WALL_S
+R
 SAND_WALL_E
 SAND_WALL_W
 SAND_WALL_SE
@@ -33244,6 +34054,7 @@ SAND_Y_WALL_SW
 SAND_Y_WALL_S_W
 SAND_Y_WALL_N_W
 SAND_Y_WALL_S_E
+`O
 SAND_Y_WALL_N_E
 SAND_Y_WALL_N_S_E
 SAND_Y_WALL_N_W_E
@@ -33292,6 +34103,7 @@ SAND_B_WALL_W_E
 SAND_B_WALL_N_S
 SAND_R_WALL_N
 SAND_R_WALL_S
+ Q
 SAND_R_WALL_E
 SAND_R_WALL_W
 SAND_R_WALL_SE
@@ -33314,6 +34126,7 @@ MAGMA_WALL_W
 MAGMA_WALL_SE
 MAGMA_WALL_NW
 MAGMA_WALL_NE
+ Q
 MAGMA_WALL_SW
 MAGMA_WALL_N_W
 MAGMA_WALL_S_E
@@ -33565,6 +34378,7 @@ UNDERWATER_2
 UNDERWATER_1
 UNDERMAGMA_7
 UNDERMAGMA_6
+ Q
 UNDERMAGMA_5
 UNDERMAGMA_4
 UNDERMAGMA_3
@@ -34001,6 +34815,7 @@ TREE_CAP_WALL_W_E
 TREE_CAP_WALL_N_S_W_E
 TREE_CAP_THICK_INTERIOR
 TREE_CAP_FLOOR_1
+ Q
 TREE_CAP_FLOOR_2
 TREE_CAP_FLOOR_3
 TREE_CAP_FLOOR_4
@@ -34563,6 +35378,7 @@ SOIL_RAMP_WITH_WALL_N_SW_SE
 SOIL_RAMP_WITH_WALL_S_NW_NE
 SOIL_RAMP_WITH_WALL_W_NE_SE
 SOIL_RAMP_WITH_WALL_NW_SE
+`O
 SOIL_RAMP_WITH_WALL_NE_SW
 SOIL_RAMP_WITH_WALL_NW_NE_SW_SE
 SOIL_RAMP_WITH_WALL_NW_NE_SW
@@ -34803,6 +35619,7 @@ ITEM_HATCH_COVER_VOMIT
 ITEM_HATCH_COVER_WATER
 ITEM_HATCH_COVER_MUD
 ITEM_HATCH_COVER_FORBIDDEN
+ Q
 ITEM_GRATE
 ITEM_FLOODGATE_STONE
 ITEM_FLOODGATE_STONE_OPEN
@@ -34820,6 +35637,7 @@ ITEM_FLOODGATE_VARIANT
 ITEM_FLOODGATE_SPIKES
 ITEM_FLOODGATE_RINGS
 ITEM_FLOODGATE_STUDS
+╨U
 ITEM_FLOODGATE_ENGRAVING
 ITEM_FLOODGATE_BANDS
 ITEM_FLOODGATE_DAMAGE
@@ -34833,6 +35651,7 @@ ITEM_GRATE_WOOD_WALL_CLOSED
 ITEM_GRATE_WOOD_FLOOR_OPEN
 ITEM_GRATE_WOOD_FLOOR_CLOSED
 ITEM_GRATE_STONE
+╨U
 ITEM_GRATE_STONE_WALL_OPEN
 ITEM_GRATE_STONE_WALL_CLOSED
 ITEM_GRATE_STONE_FLOOR_OPEN
@@ -34871,6 +35690,7 @@ ITEM_DOOR_VOMIT
 ITEM_DOOR_WATER
 ITEM_DOOR_MUD
 ITEM_DOOR_FORBIDDEN
+≡U
 ITEM_CHAIN_METAL
 ITEM_CHAIN_ROPE
 ITEM_FLASK_METAL
@@ -34926,6 +35746,7 @@ ITEM_CHAIR_RINGS
 ITEM_CHAIR_STUDS
 ITEM_CHAIR_ENGRAVING
 ITEM_CHAIR_BANDS
+ Q
 ITEM_CHAIR_DAMAGE
 ITEM_CHAIR_BLOOD
 ITEM_CHAIR_VOMIT
@@ -34948,11 +35769,13 @@ ITEM_TABLE_GLASS
 ITEM_TABLE_LEG_VARIANT
 ITEM_TABLE_SPIKES
 ITEM_TABLE_RINGS
+ Q
 ITEM_TABLE_STUDS
 ITEM_TABLE_ENGRAVING
 ITEM_TABLE_BANDS
 ITEM_TABLE_DAMAGE
 ITEM_TABLE_BLOOD
+ Q
 ITEM_TABLE_VOMIT
 ITEM_TABLE_WATER
 ITEM_TABLE_MUD
@@ -34961,6 +35784,7 @@ ITEM_QUIVER
 ITEM_SPLINT
 ITEM_ORTHOPEDIC_CAST
 ITEM_CRUTCH
+ Q
 ITEM_BIN
 ITEM_BIN_WOOD_EMPTY
 ITEM_BIN_METAL_EMPTY
@@ -34976,8 +35800,10 @@ ITEM_BOX
 ITEM_BOX_WOOD
 ITEM_BOX_STONE
 ITEM_BOX_METAL
+ Q
 ITEM_BOX_GLASS
 ITEM_BOX_VARIANT
+ Q
 ITEM_BOX_SPIKES
 ITEM_BOX_RINGS
 ITEM_BOX_STUDS
@@ -34991,6 +35817,7 @@ ITEM_BOX_MUD
 ITEM_WEAPON_RACK_WOOD_EMPTY
 ITEM_WEAPON_RACK_STONE_EMPTY
 ITEM_WEAPON_RACK_METAL_EMPTY
+ Q
 ITEM_WEAPON_RACK_WOOD_FULL
 ITEM_WEAPON_RACK_STONE_FULL
 ITEM_WEAPON_RACK_METAL_FULL
@@ -35482,6 +36309,7 @@ BLD_BRIDGE_GLASS_RAISE_S_E
 BLD_BRIDGE_GLASS_RAISE_W_CENTER
 BLD_BRIDGE_GLASS_RAISE_W_1
 BLD_BRIDGE_GLASS_RAISE_W_N
+ Q
 BLD_BRIDGE_GLASS_RAISE_W_S
 BLD_BRIDGE_GLASS_RAISE_E_CENTER
 BLD_BRIDGE_GLASS_RAISE_E_1
@@ -36991,6 +37819,7 @@ WORLD_EDGE_GLACIER_GOOD_THIN_CORNER_TRANSITION_NE_E
 WORLD_EDGE_GLACIER_GOOD_THIN_CORNER_TRANSITION_SW_S
 WORLD_EDGE_GLACIER_GOOD_THIN_CORNER_TRANSITION_SE_S
 WORLD_EDGE_GLACIER_GOOD_THIN_CORNER_TRANSITION_SE_E
+ Q
 WORLD_EDGE_GLACIER_EVILSAV_STRAIGHT_N
 WORLD_EDGE_GLACIER_EVILSAV_STRAIGHT_S
 WORLD_EDGE_GLACIER_EVILSAV_STRAIGHT_W
@@ -36999,6 +37828,7 @@ WORLD_EDGE_GLACIER_EVILSAV_THICK_CORNER_NW
 WORLD_EDGE_GLACIER_EVILSAV_THICK_CORNER_NE
 WORLD_EDGE_GLACIER_EVILSAV_THICK_CORNER_SW
 WORLD_EDGE_GLACIER_EVILSAV_THICK_CORNER_SE
+ Q
 WORLD_EDGE_GLACIER_EVILSAV_THIN_CORNER_NW
 WORLD_EDGE_GLACIER_EVILSAV_THIN_CORNER_NE
 WORLD_EDGE_GLACIER_EVILSAV_THIN_CORNER_SW
@@ -37069,12 +37899,16 @@ WORLD_EDGE_WATER_STRAIGHT_N
 WORLD_EDGE_WATER_STRAIGHT_S
 WORLD_EDGE_WATER_STRAIGHT_W
 WORLD_EDGE_WATER_STRAIGHT_E
+ Q
 WORLD_EDGE_WATER_THICK_CORNER_NW
 WORLD_EDGE_WATER_THICK_CORNER_NE
+ Q
 WORLD_EDGE_WATER_THICK_CORNER_SW
 WORLD_EDGE_WATER_THICK_CORNER_SE
+0O
 WORLD_EDGE_WATER_THIN_CORNER_NW
 WORLD_EDGE_WATER_THIN_CORNER_NE
+ Q
 WORLD_EDGE_WATER_THIN_CORNER_SW
 WORLD_EDGE_WATER_THIN_CORNER_SE
 WORLD_EDGE_WATER_TINY_CORNER_NW
@@ -37090,6 +37924,7 @@ WORLD_EDGE_WATER_THINNING_N_E
 WORLD_EDGE_WATER_THINNING_S_W
 WORLD_EDGE_WATER_THINNING_S_E
 WORLD_EDGE_WATER_THINNING_W_N
+ Q
 WORLD_EDGE_WATER_THINNING_W_S
 WORLD_EDGE_WATER_THINNING_E_N
 WORLD_EDGE_WATER_THINNING_E_S
@@ -37186,6 +38021,7 @@ WORLD_EDGE_BEACH_LINE_THIN_CORNER_NE
 WORLD_EDGE_BEACH_LINE_THIN_CORNER_SW
 WORLD_EDGE_BEACH_LINE_THIN_CORNER_SE
 WORLD_EDGE_BEACH_LINE_TINY_CORNER_NW
+ Q
 WORLD_EDGE_BEACH_LINE_TINY_CORNER_NE
 WORLD_EDGE_BEACH_LINE_TINY_CORNER_SW
 WORLD_EDGE_BEACH_LINE_TINY_CORNER_SE
@@ -37200,11 +38036,13 @@ WORLD_EDGE_BEACH_LINE_THINNING_S_W
 WORLD_EDGE_BEACH_LINE_THINNING_S_E
 WORLD_EDGE_BEACH_LINE_THINNING_W_N
 WORLD_EDGE_BEACH_LINE_THINNING_W_S
+ Q
 WORLD_EDGE_BEACH_LINE_THINNING_E_N
 WORLD_EDGE_BEACH_LINE_THINNING_E_S
 WORLD_EDGE_BEACH_LINE_THIN_CORNER_TRANSITION_NW_N
 WORLD_EDGE_BEACH_LINE_THIN_CORNER_TRANSITION_NW_W
 WORLD_EDGE_BEACH_LINE_THIN_CORNER_TRANSITION_NE_N
+`O
 WORLD_EDGE_BEACH_LINE_THIN_CORNER_TRANSITION_SW_S
 WORLD_EDGE_BEACH_LINE_THIN_CORNER_TRANSITION_SW_W
 WORLD_EDGE_BEACH_LINE_THIN_CORNER_TRANSITION_SE_S
@@ -37233,6 +38071,7 @@ GROWTH_4
 GROWTH_PICKED
 CUSTOM_EDGING
 CUSTOM_RAMP
+ Q
 SOIL_BACKGROUND
 CUSTOM_EDGE_N
 CUSTOM_EDGE_S
@@ -37250,6 +38089,8 @@ CROP_M
 CROP_R
 CROP_SPROUT
 SHRUB_DEAD
+ Q
+ Q
 Tree tile token not recognized: 
 TISSUE_NOT_SHAPED
 TISSUE_MIN_LENGTH
@@ -37286,13 +38127,22 @@ CONDITION_PROFESSION_CATEGORY
 CONDITION_DYE
 CONDITION_NOT_DYED
 CONDITION_MATERIAL_TYPE
+ Q
 CONDITION_MATERIAL_TYPE: 
 CONDITION_MATERIAL_FLAG
+ Q
+╨U
 Unrecognized condition material flag: 
 LAYER_GROUP
 END_LAYER_GROUP
+ Q
 LAYER_SET
 SKELETON_WITH_SKULL
+ Q
+ Q
+ Q
+ Q
+ Q
 PALETTE_DEFAULT
 PALETTE_COLOR
 TILE_DIM
@@ -37300,6 +38150,8 @@ PAGE_DIM_PIXELS
 PAGE_DIM
 Unrecognized Graphics Token: 
 Tileset not found
+A
+└q├
 BOOK_INSTRUCTION
 BOOK_ART
 SECRET_DEATH
@@ -37496,6 +38348,7 @@ No longer requested
 ) has been completed.
 OVERWROTE JOB: 
  BY 
+ Q
 miner
 woodworker
 carpenter
@@ -37680,6 +38533,7 @@ swamps
  caught in a cloud of 
  caught in a pool of magma!
  caught in a pool of lava!
+ Q
 You have learned the power "
 You have 
 transformed into a 
@@ -37727,6 +38581,7 @@ The vomit splatters into the shallow puddle of water.
  give
  gives
  in to pain.
+`O
  reverted to a wild state!
  forgotten 
  training!
@@ -37739,6 +38594,7 @@ The vomit splatters into the shallow puddle of water.
  is no longer enraged.
  has left the martial trance.
  has given birth to 
+d
  are unable to break
  is unable to break
 Horrors!  Demons in the deep!
@@ -37753,6 +38609,7 @@ An ambush!  Curse all friends of nature!
 An ambush!  Curse them!
 Thief!  Protect the hoard from skulking filth!
 !  Drive it away!
+2PA
 Snatcher!  Protect the children!
 An injured 
  has sprung from ambush!
@@ -37772,7 +38629,9 @@ There is a
  out thick strands of webbing
 unit contained in unit
 Double Caged Unit
+ Q
 Receive job pay: NULL JOB
+Cµ°
 You are 
 blistering
 being incinerated
@@ -37934,6 +38793,7 @@ an absolute inability to understand social relationships
 a lack of understanding of social relationships
 a poor ability to manage or understand social relationships
 a meager ability with social relationships
+ Q
 Return Treasure
 Conduct Meeting
 Attend Parley
@@ -37983,13 +38843,20 @@ Creature caste outside of creature caste bounds:
  caste(s)
 Unit has misaligned body modifiers.  Adjusting.
 Unit has misaligned bp modifiers.  Adjusting.
+`O
+ Q
+`O
+`O
 Your miners have defaced a 
 Acceptable Liquid Flood Overflow
 Acceptable Fish Liquid Flood Overflow
  takes the full force of the impact
+ Q
  skids along the ground
 's mandate has ended.
 's mandates have ended.
+áJÿ
+`O
 path fail: 
 Undead
 </required_skill>
@@ -37998,6 +38865,7 @@ Undead
  has bestowed the name 
  upon a 
  has grown attached to a 
+`O
 You have disturbed the sleep of the dead!
 sucks the wind out of
 raises a high fever in
@@ -38028,6 +38896,8 @@ A restless haunt, generally troubling past acquaintances and relatives.
 A forlorn haunt, seeking out known locations or drifting around the place of death.
   This spirit has not been properly memorialized or buried.
 in play interaction 
+(aÇ
+ Q
  have 
 died in a cage.
 died of old age.
@@ -38102,14 +38972,23 @@ been put to rest.
 <pro_sub>
 <pro_obj>
 <pro_pos>
+ Q
+`O
 You reorganize your possessions.
  reorganizes 
  possessions.
 save/current/unit-
 unit-
+`O
 Outdated unit file ignored: 
 Expected unit file missing or corrupted: 
+`O
+╨U
+ Q
+ Q
+ v 
 Hotkeys
+ Q
 Slice
 You can recenter on the locations of the announcements. You may also toggle pausing when there is a new announcement.
 Toggle auto-pause on new report.
@@ -38151,6 +39030,7 @@ Recenter button
 Unit sheet button
 Sort units by job.
 Sort units by stress level.
+ Q
 Sort units by skills.
 Duplicate Object: 
 inorganic
@@ -38168,12 +39048,15 @@ creature_variation
 interaction
 text_set
 sound
+`O
 failed vermin colony deletion
 Generating world using parameter set 
  Seed: 
  History Seed: 
  Name Seed: 
  Creature Seed: 
+ Q
+ Q
 Null unit chunk on export
 It is raining 
 It is snowing 
@@ -38191,6 +39074,7 @@ Spring has arrived!
 Spring has arrived on the calendar.
  improved 
  masterfully!
+ Q
 This artwork is a
 This engraving appears on a wall 
 This engraving appears on a floor 
@@ -38202,6 +39086,7 @@ This artwork appears on a
 This work of art is a 
  and was crafted in 
 This artwork appears on 
+0O
 It is a
 It 
 Engraved 
@@ -38233,6 +39118,7 @@ objects/sound_*.txt
 objects/descriptor_color_*.txt
 objects/descriptor_pattern_*.txt
 objects/material_template_*.txt
+ Q
 objects/inorganic_*.txt
 objects/plant_*.txt
 objects/tissue_template_*.txt
@@ -38272,18 +39158,34 @@ Missing Sound Definition:
 : NULL master on building load
 : NULL subord on building load
 Site Map:  Extra Item Occupancy 
+ Q
 file error
+`O
+ Q
+ Q
 Something has collapsed on the surface!
 A section of the cavern has collapsed!
+`O
+ Q
 After a polite discussion with local rivals, 
 After a polite discussion with a local rival, 
  has claimed the position of 
 succession traveler placed out of bounds
+ Q
+`O
+0O
 , looks to your thriving economy for its future prosperity and has been incorporated into your holdings.
 , looks to your thriving economy for its future prosperity.
+ Q
+0O
+`O
+ Q
 , being the rightful heir, has inherited the position of 
  has been appointed to the position of 
  has been elected to the position of 
+ Q
+0O
+ Q
 very near
 far
 a day's travel
@@ -38297,6 +39199,7 @@ in the depths
 A snow storm has come.
 It has started raining.
 The weather has cleared.
+ Q
 Load Game: Invalid Job ID Number, 
 Load Game: Invalid Unit ID Number, 
 Load Game: Invalid Item ID Number, 
@@ -38318,10 +39221,12 @@ Load Game: Invalid Squad ID Number
 Load Game: Invalid Formation ID Number
 Load Game: Invalid Activity ID Number
 Load Game: Invalid Interaction Instance ID Number
+`O
 Load Game: Invalid Written Content ID Number
 Load Game: Invalid Identity ID Number
 Load Game: Invalid Incident ID Number
 Load Game: Invalid Crime ID Number
+`O
 Load Game: Invalid Vehicle ID Number
 Load Game: Invalid Army ID Number
 Load Game: Invalid Army Controller ID Number
@@ -38338,6 +39243,13 @@ Load Game: Invalid Belief System ID Number
 Load Game: Invalid Image Set ID Number
 Load Game: Invalid Divination Set ID Number
  has engraved a masterpiece!
+OG
+0O
+ Q
+ Q
+ Q
+ Q
+PR
 save/current/site-
 site-
 NULL artifact on site adoption, skipping
@@ -38354,17 +39266,50 @@ You have discovered an unusual volcanic wall studded with gems.
 You have found a curious underground structure.
 You have struck 
 column update out of bounds: 
+ Q
 Evaluate Wagon Edge Access Overflow
+`O
+ Q
+0O
+`O
+ Q
+ Q
+`O
+ Q
+ Q
+ Q
+ Q
+ Q
+ Q
+`O
+ Q
 The falling debris has defaced a 
+`O
+ Q
+ Q
 corrupt feature population
 corrupt feature layer population
+ZÉ<
 Dungeon Floodfill Overflow
+`O
 Dungeon Floodfill Overflow 3
+ Q
+u≡╥
 Dungeon Floodfill Overflow 4
+ Q
 Dungeon Flood Fill Overflow 2
+`O
+`O
+`O
+ Q
 The impertinent vegetation has defaced a 
 A careless farmer has defaced a 
 A foolish builder defaced a 
+ Q
+ Q
+╨U
+FAa
+ Q
  have married.  Congratulations!
 ivory/tooth
 arena
@@ -38539,21 +39484,38 @@ rant
 </musical_forms>
 <dance_forms>
 <dance_form>
+ Q
 </dance_form>
 </dance_forms>
 </df_world>
+!⌠B
+└ÄJ
+ÅJ
+ÅJ
+PÄJ
+p
+X
+2PA
 green glass gems
 clear glass gems
 crystal glass gems
+P²x
+'4E
  is throwing a tantrum!
  has slipped into depression...
  is stumbling around obliviously!
  has entered a martial trance!
+s
+0O
  is brawling under the influence!
+ Q
+`O
 camp order missing parent -- unit will camp forever
 eat
 eats
  has guzzled some 
+`O
+`O
 : site walker could not find walkable area
 : site walker could not return to home zone
 You feed on 
@@ -38579,8 +39541,19 @@ You stand up.
 You lie on the ground.
  lies on the ground.
 marriage traveler placed out of bounds
+0O
+`O
+`O
+0O
+`O
 NULL artifact on wg ruin building, skipping
+ Q
 adventuring traveler placed out of bounds
+0O
+0O
+≡U
+≡U
+r+b
 insufficient memory
 buffer error
 stream error
@@ -38598,18 +39571,227 @@ invalid code lengths set
 too many length or distance symbols
 invalid code -- missing end-of-block
 invalid bit length repeat
+ Q
 invalid literal/lengths set
 invalid distances set
+`O
 incorrect data check
 incorrect length check
+j
+ Q
+(%u): 
+%u> 
++0x%llX
 DebugCreate
+a
+k
 SleepConditionVariableCS
 WakeAllConditionVariable
+∙₧─B°\«u≤
 bad allocation
 UTF-16LE
+UTF-8
 Out of memory - aborting
 Fatal Error
+ Q
+ Q
+ Gd
+áW
+M:≡╥
+≤îE
+!5:0R
+αU
+ÇS₧
+ Q
+ Q
+ Q
+≤x√
+R
+ Q
+ Q
+ Q
+0O
+ Q
+ Q
+ Q
+0O
+ Q
+ Q
+'dH
+ d6
+î╙|≤√╘LeM▓aX:╡Q╬ú╝
+ Q
+╨U
 standingorder_gatherrefuse
+ Q
+ Q
+0O
+`O
+*a
+'då
+[ºv
+R
+ Q
+ Q
+ Q
+`O
+`O
+ Q
+ uÿ
+B≡╥
+ Q
+ Q
+ Q
+ Q
+PR
+ Q
+0O
+ Q
+ Q
 next_building_global_id
+ Q
+`O
+ Q
+a╖l
+`O
+0O
+ Q
+0R
+0R
+0O
+`O
+⌐aâ
+ Q
+`O
+`O
+0O
 SetUnhandledExceptionFilter
+u_≡╥
+`O
+ Q
+╨U
+ Q
+`O
+`O
+ Q
+ Q
+ Q
+0O
+`O
+B≡╥
+ Q
+0O
+`O
+ Q
+0O
+╨U
+p¢1
+╥2V
+ Q
+Ü∩e
+B
+┴2òK≡╥
+ Q
+ Q
+ Q
+`O
+ Q
+ Q
+ Q
+ Q
+╨U
+pΦÖ
+0O
+ Q
+`O
+`O
+`O
+ Q
+ u
+ Q
+`O
+`O
+`O
+`O
 next_artifact_global_id
+0O
+`O
+`O
+ Q
+ Q
+ Q
+ Q
+ Q
+ Q
+`O
+`O
+ Q
+╨U
+░y
+ Q
+ Q
+ Q
+╨U
+╨U
+`O
+z
+'dX
+ 6r
+A
+P"ü
+p5
+ T
+ Q
+ Q
+`O
+0O
+0O
+ Q
+ Q
+ Q
+ Q
+ Q
+0O
+ Q
+ Q
+ Q
+ Q
+αU
+╨U
+ Q
+`O
+`O
+≡U
+ Q
+ Q
+ Q
+ Q
+ Q
+`O
+`O
+`O
+`O
+░u
+`O
+ Q
+ Q
+0O
+P6
+ Q
+`O
+0O
+0W
+ Q
+ Q
+`O
+ Q
+ Q
+`O
+ Q
+0O
+╨U
+ Q
+`O
+p"
+l
+σT
