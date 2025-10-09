@@ -46239,19 +46239,7 @@ UTF-16LE
 UTF-8
 Out of memory - aborting
 Fatal Error
-G
-<oQ
 attempted to stop the campfire loop but ran into a runtime error: 
 attempted to stop the campfire loop but ran into an exception: 
-[SongWriter]: could not find curated measure from _currentSong->curatedMeasures vector: 
-'d>
-R
-c
+[SongWriter]: could not find curated measure from _currentSong->curatedMeasures vector:
 strtoull
-d
-U
-L
-V
-P
- N
-Z
