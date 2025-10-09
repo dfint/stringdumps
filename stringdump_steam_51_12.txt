@@ -120,10 +120,13 @@ drop-gtr
 main-gtr
 acc-main-gtr
 pads
+df9
 clap-drop
+df3
 acc-gtr-2
 pads-bass
 piano-pluck-main
+df15
 claps
 pad-whistle
 percussion
@@ -4214,6 +4217,7 @@ CENTRALIZE
 [VERTICAL_SCROLL_SPEED_WORLD_FAST:
 prefs/announcements.txt
 BOX:
+P:
 R:
 A_D:
 D_D:
@@ -5278,6 +5282,7 @@ We'll be ready soon!
 There are no merchants present with which to trade.
 Inaccessible
 Distance: 
+'tF
 Amount of 
 available is 
 at least
@@ -6742,6 +6747,7 @@ Magma-safe
 Select to use in non-economic jobs.
 Economic stone
 You know of no appropriate stones.
+17c
 Choose a symbol for the squad.
 Choose a symbol for the detail.
 Choose a symbol for the burrow.
@@ -6849,6 +6855,7 @@ No assigned items
 Mat
 Color
 Hunters
+Amt
 Add ammunition
 Supplies carried by each squad member
 3 food
@@ -9572,6 +9579,7 @@ personality
  denotes the default cultural value.
 Your personality facets might be restricted based on your creature type.
 Self-control
+ N/A 
 No love   <->    Loves easily
 No hate   <->    Hates easily
 No envy   <->   Envies easily
@@ -17432,6 +17440,8 @@ younger half-sister
 younger half-sibling
 no relationship
 ren
+ t2
+ d1
 SWAMP
 LAKE
 HILLS
@@ -19161,6 +19171,7 @@ GEMS_USE_ADJ_NOUN
 Unrecognized Shape Token: 
 SIMPLE
 SAND_BEIGE_RAMP_WITH_WALL_N_W_E
+'tI
 BORDER_BOTTOM
 Main: Open Item/Unit sheet
 Gain possession
@@ -19464,6 +19475,7 @@ You cannot travel through the
 Trip Hammers
 invalid lair entrance
 NULL artifact on create site map, skipping
+'dr
 Dawn is breaking.
 It is noon.
 Night is falling.
@@ -19501,6 +19513,7 @@ Such care for your happiness!
 Such 
 Such is the spirit of 
 Infinite 
+Oh 
 tender
 "Hubris!"
 has been cursed
@@ -19788,6 +19801,7 @@ Tell a story about a civilization or organization
 Tell a story about a region
 Speak
 CHAR
+C
 build a fire
 fell trees
 compose
@@ -20445,6 +20459,7 @@ stoi argument out of range
 invalid stoi argument
 Saving bindings to 
 [VERSION:1]
+:UP]
 [BIND:
 REPEAT_BROKEN
 [MOUSEWHEEL:
@@ -25953,6 +25968,7 @@ Make
  quern
  millstone
 Train 
+(R
  to hunt
 hunting animal
  for war
@@ -26040,6 +26056,7 @@ Load cage trap
 Load stone trap
 Load weapon trap
 WORLD_EDGE_SHAPE_THIN_CORNER_TRANSITION_NW_W
+'ta
 SELECT
 SEC_SELECT
 DESELECT
@@ -28005,6 +28022,7 @@ A
 E
 I
 M
+Q
 No macros!
 NAME_SWAMP
 HOLY
@@ -28036,6 +28054,7 @@ NAME_FESTIVAL
 *** Error(s) finalizing the symbol 
 Unrecognized word token: 
 *** Error(s) finalizing the translation 
+rdF
 Impoverished Word Selector
 language_layer
 [OBJECT:LANGUAGE]
@@ -35405,6 +35424,7 @@ large-headed
 [ATTACK:EDGE:20:10000:stab:stabs:NO_SUB:1000]
 [RANGED:CROSSBOW:BOLT]
 [AIM_DIFFICULTY:2]
+[LOADED:30:7]
 [NAME:bolt:bolts]
 [CLASS:BOLT]
 SH
@@ -37224,6 +37244,7 @@ ITEM_CHAIR_GLASS
 ITEM_COINS_PILE_4
 BLD_BRIDGE_METAL_RETRACT_NSE
 WORLD_EDGE_GRASS_TROP_GOOD_THIN_CORNER_TRANSITION_SW_W
+'tY
 WORLD_EDGE_SAND_DESERT_YELLOW_THIN_CORNER_TRANSITION_SW_W
 Not enough peaks: 
 Not enough medium altitudes
@@ -39894,6 +39915,7 @@ SCREWPUMP_N_1
 SCREWPUMP_N_2
 SCREWPUMP_S_1
 SCREWPUMP_S_2
+'tC
 SCREWPUMP_AXLE_1
 SCREWPUMP_AXLE_2
 SOIL_WALL_N_1
@@ -45864,6 +45886,7 @@ Missing Shape Definition
 Missing Color Pattern Definition
 Missing Reaction Definition
 Missing Interaction Definition: 
+LL
 : NULL job on building load
 : NULL master on building load
 : NULL subord on building load
@@ -45965,6 +45988,7 @@ A foolish builder defaced a
  have married.  Congratulations!
 ivory/tooth
 arena
+J
 -legends
 .xml
 <?xml version="1.0" encoding='CP437'?>
@@ -46208,12 +46232,26 @@ invalid literal/lengths set
 invalid distances set
 incorrect data check
 incorrect length check
+(%u): 
 DebugCreate
 bad allocation
 UTF-16LE
+UTF-8
 Out of memory - aborting
 Fatal Error
+G
+<oQ
 attempted to stop the campfire loop but ran into a runtime error: 
 attempted to stop the campfire loop but ran into an exception: 
-[SongWriter]: could not find curated measure from _currentSong->curatedMeasures vector:
+[SongWriter]: could not find curated measure from _currentSong->curatedMeasures vector: 
+'d>
+R
+c
 strtoull
+d
+U
+L
+V
+P
+ N
+Z
